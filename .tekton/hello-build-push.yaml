@@ -10,15 +10,15 @@ metadata:
     pipelinesascode.tekton.dev/on-cel-expression: event == "push" && target_branch == "main"
   creationTimestamp: null
   labels:
-    appstudio.openshift.io/application: unsafe-arena
-    appstudio.openshift.io/component: praiskup-test-package
+    appstudio.openshift.io/application: lucarval-rpm-test
+    appstudio.openshift.io/component: rpmbuild-konflux
     pipelines.appstudio.openshift.io/type: build
   name: hello-build-on-push
-  namespace: rpm-build-pipeline-tenant
+  namespace: rhel-primitives-tenant
 spec:
   params:
     - name: ociStorage
-      value: quay.io/redhat-user-workloads/rpm-build-pipeline-tenant/praiskup-test-package:{{revision}}
+      value: quay.io/redhat-user-workloads/rhel-primitives-tenant/rpmbuild-konflux:{{revision}}
     - name: package-name
       value: hello
     - name: git-url
