@@ -1,0 +1,2466 @@
+---
+lockfileVersion: 1
+lockfileVendor: redhat
+arches:
+- arch: x86_64
+  packages:
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/a/add-determinism-0.6.0-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 941377
+    checksum: sha256:2be5e841b86af374647a081f8a067e8f43edd7a0238e6babeb7ca7e845b33de0
+    name: add-determinism
+    evr: 0.6.0-2.fc43
+    sourcerpm: rust-add-determinism-0.6.0-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/a/alternatives-1.33-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 41657
+    checksum: sha256:1a20019089c7cfddac0a3e75cbd164d373c73b3e53f66321f5ce712f8d24557d
+    name: alternatives
+    evr: 1.33-2.fc43
+    sourcerpm: chkconfig-1.33-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/a/ansible-srpm-macros-1-18.1.fc43.noarch.rpm
+    repoid: rawhide
+    size: 20385
+    checksum: sha256:b87d2e57d38ab200da57653758bf2e17b631ecdcd4788cac15a5714bc6698c8f
+    name: ansible-srpm-macros
+    evr: 1-18.1.fc43
+    sourcerpm: ansible-packaging-1-18.1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/a/audit-libs-4.1.1-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 141846
+    checksum: sha256:96f86936ee8fe6e346f41a684ad13142e758ea0e810e626ea4d980ee11821270
+    name: audit-libs
+    evr: 4.1.1-2.fc44
+    sourcerpm: audit-4.1.1-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/a/authselect-1.6.1-1.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 195642
+    checksum: sha256:30cee261b1734def2119d1882a9bd3e1150c5ca15daeb129a438ad53e79c153f
+    name: authselect
+    evr: 1.6.1-1.fc43
+    sourcerpm: authselect-1.6.1-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/a/authselect-libs-1.6.1-1.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 235614
+    checksum: sha256:869b5ab57230b8dc3b10217b7dff9a5fb3fe33894109ba49389bf244d280ccd9
+    name: authselect-libs
+    evr: 1.6.1-1.fc43
+    sourcerpm: authselect-1.6.1-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/b/bash-5.3.0-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1960689
+    checksum: sha256:cc112d6284d1be418582f30eea2c18545c0ac5f6fe820219d04c6e8fe2cfff7f
+    name: bash
+    evr: 5.3.0-2.fc43
+    sourcerpm: bash-5.3.0-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/b/binutils-2.45-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 6157871
+    checksum: sha256:d5d35c2538b69d7e4131de9c0a21a276969ad5513749d73bf4fe9e7887b2a62d
+    name: binutils
+    evr: 2.45-3.fc44
+    sourcerpm: binutils-2.45-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/b/build-reproducibility-srpm-macros-0.6.0-2.fc43.noarch.rpm
+    repoid: rawhide
+    size: 12107
+    checksum: sha256:fa897d1caac8a79a3d0bff1c3f437ae7d9ba66667710f9f2b7a8477407589e34
+    name: build-reproducibility-srpm-macros
+    evr: 0.6.0-2.fc43
+    sourcerpm: rust-add-determinism-0.6.0-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/b/bzip2-1.0.8-21.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 52862
+    checksum: sha256:f208d9c390a8f404dbf2d6e7fda37c20214785a10a01cb7e46989327f6730390
+    name: bzip2
+    evr: 1.0.8-21.fc43
+    sourcerpm: bzip2-1.0.8-21.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/b/bzip2-libs-1.0.8-21.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 44098
+    checksum: sha256:0286fb4616642626bfca82de7c5b84e5c5cd52e748eb77a275371a5eca4e2d7f
+    name: bzip2-libs
+    evr: 1.0.8-21.fc43
+    sourcerpm: bzip2-1.0.8-21.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/ca-certificates-2025.2.80_v9.0.304-2.fc44.noarch.rpm
+    repoid: rawhide
+    size: 997201
+    checksum: sha256:7b24bd1315b2b5fdff265370392c3f948161583fd1b4c461550c578abef8f37a
+    name: ca-certificates
+    evr: 2025.2.80_v9.0.304-2.fc44
+    sourcerpm: ca-certificates-2025.2.80_v9.0.304-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/coreutils-9.7-5.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1195636
+    checksum: sha256:cd9eac22543712272a4aa531e5369de77b97837a3661f7faa3c59e068de10915
+    name: coreutils
+    evr: 9.7-5.fc43
+    sourcerpm: coreutils-9.7-5.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/coreutils-common-9.7-5.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 2202340
+    checksum: sha256:7de94e5ba766f0ee1066bf1045f1c89e2b50f08485a7bcfe8111e55eed4f3d6f
+    name: coreutils-common
+    evr: 9.7-5.fc43
+    sourcerpm: coreutils-9.7-5.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/cpio-2.15-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 300180
+    checksum: sha256:b912f1ee96b2b087ef4ff88b15fe626b82c0a1b71a2f5fdca21d3c40441466e5
+    name: cpio
+    evr: 2.15-6.fc43
+    sourcerpm: cpio-2.15-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/cracklib-2.9.11-8.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 93589
+    checksum: sha256:186073d5cb04136fb29a40035c2e13b5ddaeb5de0e2b04801ec28c1544f866ca
+    name: cracklib
+    evr: 2.9.11-8.fc43
+    sourcerpm: cracklib-2.9.11-8.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/cracklib-dicts-2.9.11-8.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 3768797
+    checksum: sha256:b3f83bfbed6956c5cc3c13d158282c20b0f2e2c7db9018714516ae7f83f291ec
+    name: cracklib-dicts
+    evr: 2.9.11-8.fc43
+    sourcerpm: cracklib-2.9.11-8.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/crypto-policies-20250714-4.gitcd6043a.fc44.noarch.rpm
+    repoid: rawhide
+    size: 100712
+    checksum: sha256:b7b8a599585dc6c523afaaf45416c916ef7c3ee1f7e07ae8caceaf9913641c95
+    name: crypto-policies
+    evr: 20250714-4.gitcd6043a.fc44
+    sourcerpm: crypto-policies-20250714-4.gitcd6043a.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/crypto-policies-scripts-20250714-4.gitcd6043a.fc44.noarch.rpm
+    repoid: rawhide
+    size: 136171
+    checksum: sha256:ba052f691c8f29eb68345cfb4a8f0ac7dc6dae4eda4edf2649ad007b77f430b6
+    name: crypto-policies-scripts
+    evr: 20250714-4.gitcd6043a.fc44
+    sourcerpm: crypto-policies-20250714-4.gitcd6043a.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/cryptsetup-libs-2.8.1-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 589166
+    checksum: sha256:408c69b8e864f4f5889ded10cedb20b2fd39655ac4161fe5fc0cead6781599fc
+    name: cryptsetup-libs
+    evr: 2.8.1-1.fc44
+    sourcerpm: cryptsetup-2.8.1-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/curl-8.16.0~rc2-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 241751
+    checksum: sha256:38901172f9715c14a83de0608826e79f02894fb37275aea9f56c2f7038ee6dbd
+    name: curl
+    evr: 8.16.0~rc2-1.fc44
+    sourcerpm: curl-8.16.0~rc2-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/c/cyrus-sasl-lib-2.1.28-33.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 815575
+    checksum: sha256:3c4cc4d5deae2cfb0bcd9837d031f4eaa3b5b3f93ad14d1492883be975cc433a
+    name: cyrus-sasl-lib
+    evr: 2.1.28-33.fc44
+    sourcerpm: cyrus-sasl-2.1.28-33.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/d/dbus-1.16.0-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 7657
+    checksum: sha256:f22a7b6488af7ece9d825287abe6bcce73a0824c9aaf207457b7c5a4980b2eed
+    name: dbus
+    evr: 1:1.16.0-4.fc43
+    sourcerpm: dbus-1.16.0-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/d/dbus-broker-37-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 178015
+    checksum: sha256:7be7dac17f56e12a3e524dac8ca59501fe833ae637827d4461e9799467c118cc
+    name: dbus-broker
+    evr: 37-2.fc43
+    sourcerpm: dbus-broker-37-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/d/dbus-common-1.16.0-4.fc43.noarch.rpm
+    repoid: rawhide
+    size: 14515
+    checksum: sha256:009bda33902be740161a815811d0578fba406a8987b7b9806d4832a3ddf9b4f6
+    name: dbus-common
+    evr: 1:1.16.0-4.fc43
+    sourcerpm: dbus-1.16.0-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/d/debugedit-5.2-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 82487
+    checksum: sha256:d6fe774798cbb46e29bd6ebbc842f81609b3c35720d180597d118f616e266b14
+    name: debugedit
+    evr: 5.2-2.fc43
+    sourcerpm: debugedit-5.2-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/d/device-mapper-1.02.208-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 142087
+    checksum: sha256:22c017ec1f6ebb6560b47176482fa0dd5b23f27d35c23e056f92bc38aefc20fa
+    name: device-mapper
+    evr: 1.02.208-2.fc44
+    sourcerpm: lvm2-2.03.34-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/d/device-mapper-libs-1.02.208-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 184211
+    checksum: sha256:47004586b74587ddfd19484e83a1d43ad739fd3754a1bdb16e775c97520ada21
+    name: device-mapper-libs
+    evr: 1.02.208-2.fc44
+    sourcerpm: lvm2-2.03.34-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/d/diffutils-3.12-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 401687
+    checksum: sha256:149f32c1d803d1053e08da393a439e008cd4cdf714b69f12c5de90ba4ec555ec
+    name: diffutils
+    evr: 3.12-3.fc43
+    sourcerpm: diffutils-3.12-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/d/dwz-0.16-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 138732
+    checksum: sha256:25ae18865f6aff64dc1ab299c293c5b31489a1fd0d80dd999d17eda495bf8045
+    name: dwz
+    evr: 0.16-2.fc43
+    sourcerpm: dwz-0.16-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/e/ed-1.22.2-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 85712
+    checksum: sha256:ba1a9fc1d6cc8659d37263a31f8272a8a141ce2144967fb78006ffc49deececb
+    name: ed
+    evr: 1.22.2-1.fc44
+    sourcerpm: ed-1.22.2-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/e/efi-srpm-macros-6-4.fc43.noarch.rpm
+    repoid: rawhide
+    size: 22930
+    checksum: sha256:7288ecac7815e6f20835de18bf839076aef7d75a6992650023ca5e2fef7393c4
+    name: efi-srpm-macros
+    evr: 6-4.fc43
+    sourcerpm: efi-rpm-macros-6-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/e/elfutils-0.193-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 585026
+    checksum: sha256:17edfba403afcd97de8fc6ca3fa73aa19c8b58f2cb3312886951453b9b7cbafb
+    name: elfutils
+    evr: 0.193-3.fc43
+    sourcerpm: elfutils-0.193-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/e/elfutils-debuginfod-client-0.193-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 47950
+    checksum: sha256:a42cef58c8a66af8b378732115c6acc19b1c7661bfbb368e336deb1bf161a374
+    name: elfutils-debuginfod-client
+    evr: 0.193-3.fc43
+    sourcerpm: elfutils-0.193-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/e/elfutils-default-yama-scope-0.193-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 12723
+    checksum: sha256:7754a5e9d1c1ab8fdf6ccb28eb4a0d51c2b7ed4f9de6d397c170e5d5e2418e1f
+    name: elfutils-default-yama-scope
+    evr: 0.193-3.fc43
+    sourcerpm: elfutils-0.193-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/e/elfutils-libelf-0.193-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 212750
+    checksum: sha256:49b7458c98dace365604b904a9b5431428bed0f90d99724658706669a69253b1
+    name: elfutils-libelf
+    evr: 0.193-3.fc43
+    sourcerpm: elfutils-0.193-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/e/elfutils-libs-0.193-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 276223
+    checksum: sha256:b9049fd0b1a1b24a2dd6a22444f8a5f4807637355190e1becb052849891e4cc0
+    name: elfutils-libs
+    evr: 0.193-3.fc43
+    sourcerpm: elfutils-0.193-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/e/expat-2.7.1-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 118863
+    checksum: sha256:08b684904d37de9f1864953d97be98414a1f20bad6294269604596d5eb37540f
+    name: expat
+    evr: 2.7.1-3.fc43
+    sourcerpm: expat-2.7.1-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/fedora-gpg-keys-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 142099
+    checksum: sha256:e3233a41a4b7535354fbb6b93731c442b874ea8a7035e21f10e19d4ee1ae8d10
+    name: fedora-gpg-keys
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/fedora-release-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 14289
+    checksum: sha256:b5f6a2c36dae698e01898c6052ecb3f6fa679a9ed120ffcf1f75559f30221d23
+    name: fedora-release
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/fedora-release-common-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 25633
+    checksum: sha256:312d2714d8c4cf7484809a245f8ef799e90c486a73e567c4afc89d1d6102ab94
+    name: fedora-release-common
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/fedora-release-identity-basic-44-0.2.noarch.rpm
+    repoid: rawhide
+    size: 15073
+    checksum: sha256:a1c5d65c2b5d713283a1c2813b431191d6fad53dc9bed37ffafa7746ac2ac8ab
+    name: fedora-release-identity-basic
+    evr: 44-0.2
+    sourcerpm: fedora-release-44-0.2.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/fedora-repos-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 9291
+    checksum: sha256:550bd5e50ea6759f7e906d7be609e4aa407d60aa92f9391d414b56ac6470c4c4
+    name: fedora-repos
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/fedora-repos-rawhide-44-0.1.noarch.rpm
+    repoid: rawhide
+    size: 8855
+    checksum: sha256:adde42183e481d2fe525dfd6049be04fa0e070df780e5c7715391490aa0c4099
+    name: fedora-repos-rawhide
+    evr: 44-0.1
+    sourcerpm: fedora-repos-44-0.1.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/file-5.46-7.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 49909
+    checksum: sha256:156b288bbfa1b90998a728a359523ea61b4e712aed2a9c8af2f839659b556bfc
+    name: file
+    evr: 5.46-7.fc44
+    sourcerpm: file-5.46-7.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/file-libs-5.46-7.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 870143
+    checksum: sha256:f4f7f07aa5810f1b7291a7d84667d1f8658feda8d41943a1b7963cdc4489ad25
+    name: file-libs
+    evr: 5.46-7.fc44
+    sourcerpm: file-5.46-7.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/filesystem-3.18-50.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1398533
+    checksum: sha256:2c8bbed1758f2884d62978d0f96e27f37cdcfc910593beaad5135808ce49ea13
+    name: filesystem
+    evr: 3.18-50.fc43
+    sourcerpm: filesystem-3.18-50.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/filesystem-srpm-macros-3.18-50.fc43.noarch.rpm
+    repoid: rawhide
+    size: 27047
+    checksum: sha256:8ba69aebba9cb91a7ab1d03c0b4f42d06322f508203dff58aa6802003c7766fe
+    name: filesystem-srpm-macros
+    evr: 3.18-50.fc43
+    sourcerpm: filesystem-3.18-50.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/findutils-4.10.0-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 563204
+    checksum: sha256:db683fa3e84ab72bebb9be3fa43d3ee0aad49a303395bc839f8b9dd7829ba6fe
+    name: findutils
+    evr: 1:4.10.0-6.fc43
+    sourcerpm: findutils-4.10.0-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/fonts-srpm-macros-2.0.5-23.fc43.noarch.rpm
+    repoid: rawhide
+    size: 27825
+    checksum: sha256:3b8862ccae2b8afb5bbe9c5212d084ff7edb2a026b6c584e28ed313cb43ead9b
+    name: fonts-srpm-macros
+    evr: 1:2.0.5-23.fc43
+    sourcerpm: fonts-rpm-macros-2.0.5-23.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/forge-srpm-macros-0.4.0-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 20571
+    checksum: sha256:23d64d5f8b3c9505284d02af065293bcdb7ca76ead553b27863ecf28d33613c2
+    name: forge-srpm-macros
+    evr: 0.4.0-3.fc43
+    sourcerpm: forge-srpm-macros-0.4.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/f/fpc-srpm-macros-1.3-15.fc43.noarch.rpm
+    repoid: rawhide
+    size: 8081
+    checksum: sha256:765494d29ffc5655369b402c4084f0269cfafe8d48b7089dd1a795ec86d10066
+    name: fpc-srpm-macros
+    evr: 1.3-15.fc43
+    sourcerpm: fpc-srpm-macros-1.3-15.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gap-srpm-macros-1-1.fc44.noarch.rpm
+    repoid: rawhide
+    size: 8813
+    checksum: sha256:b1f9905555096bfb75d998303f269fd5ace52fb50ffe4d79103db61a6dfff1a1
+    name: gap-srpm-macros
+    evr: 1-1.fc44
+    sourcerpm: gap-srpm-macros-1-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gawk-5.3.2-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1179186
+    checksum: sha256:0ec4e62741c463d98148dd04f513ce99b4265914e930bdf2557ee5a5cd1369d4
+    name: gawk
+    evr: 5.3.2-2.fc43
+    sourcerpm: gawk-5.3.2-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gawk-all-langpacks-5.3.2-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 299867
+    checksum: sha256:6239a7c3ccb489196934461bbee8670c3b16a51680bc6fefcc6c0b4132065a2c
+    name: gawk-all-langpacks
+    evr: 5.3.2-2.fc43
+    sourcerpm: gawk-5.3.2-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gdb-minimal-16.3-5.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 4621220
+    checksum: sha256:7aa13fc47d189628a2ad066c63809f6b09935d5a61a690747c32ae7abc708ad1
+    name: gdb-minimal
+    evr: 16.3-5.fc44
+    sourcerpm: gdb-16.3-5.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gdbm-1.23-10.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 154437
+    checksum: sha256:76b918070042f9f3b644c6f68f115db68cb8cfc3cb3b8f26b56f7088ef484773
+    name: gdbm
+    evr: 1:1.23-10.fc43
+    sourcerpm: gdbm-1.23-10.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gdbm-libs-1.23-10.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 58127
+    checksum: sha256:58c9520523d6a14db8b20479d6efad181417f4c86dabce08c38ef2dd42d86f41
+    name: gdbm-libs
+    evr: 1:1.23-10.fc43
+    sourcerpm: gdbm-1.23-10.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/ghc-srpm-macros-1.9.2-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 8956
+    checksum: sha256:488455a3d2167f906f5edf28bbee82a5140996be6fcfa8cfce2cd7c9f777e663
+    name: ghc-srpm-macros
+    evr: 1.9.2-3.fc43
+    sourcerpm: ghc-srpm-macros-1.9.2-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/glib2-2.85.4-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 3226884
+    checksum: sha256:533983e834620e123e7d43491d60e560e44a5a0528471e389209921b433967f6
+    name: glib2
+    evr: 2.85.4-1.fc44
+    sourcerpm: glib2-2.85.4-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/glibc-2.42.9000-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 2279817
+    checksum: sha256:61499d27d26c5f2beb86b609f0289b9a6e4e4079013d02e2ba010e84aad9675a
+    name: glibc
+    evr: 2.42.9000-3.fc44
+    sourcerpm: glibc-2.42.9000-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/glibc-common-2.42.9000-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 303835
+    checksum: sha256:7d712fa94c2ac382b3a040340a7f540a6323e8ef7d9ecae3f2f43cffa1fc3e06
+    name: glibc-common
+    evr: 2.42.9000-3.fc44
+    sourcerpm: glibc-2.42.9000-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/glibc-gconv-extra-2.42.9000-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 1633012
+    checksum: sha256:755e1e2a5d47671e541eb0bdda5497a0aa321c7ec6aedc647f899ddf450b2000
+    name: glibc-gconv-extra
+    evr: 2.42.9000-3.fc44
+    sourcerpm: glibc-2.42.9000-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/glibc-minimal-langpack-2.42.9000-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 10249
+    checksum: sha256:50f7089cb359e71ea3d986e4d48294583daa5a6edc37d3e5f7a51692577047d8
+    name: glibc-minimal-langpack
+    evr: 2.42.9000-3.fc44
+    sourcerpm: glibc-2.42.9000-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gmp-6.3.0-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 326968
+    checksum: sha256:399dc957f33824edf4a99665c0c5d7a3ad2c68b386b236e4dffbf2ba1b3665a4
+    name: gmp
+    evr: 1:6.3.0-4.fc43
+    sourcerpm: gmp-6.3.0-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gnat-srpm-macros-6-8.fc43.noarch.rpm
+    repoid: rawhide
+    size: 8690
+    checksum: sha256:6190903810b0362ec78598c04386465e4c9645b588ef10560092d31a527ed268
+    name: gnat-srpm-macros
+    evr: 6-8.fc43
+    sourcerpm: gnat-srpm-macros-6-8.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gnupg2-2.4.8-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1724217
+    checksum: sha256:b85c88ed0796b7305acbbe6d5c93118346ab3198062038a26d40f7d68962a8d3
+    name: gnupg2
+    evr: 2.4.8-4.fc43
+    sourcerpm: gnupg2-2.4.8-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gnupg2-dirmngr-2.4.8-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 281239
+    checksum: sha256:d41121dab261159436d008b42b459b1c54bc3e9a78878c858fcc44a4c067eb29
+    name: gnupg2-dirmngr
+    evr: 2.4.8-4.fc43
+    sourcerpm: gnupg2-2.4.8-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gnupg2-gpg-agent-2.4.8-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 279406
+    checksum: sha256:00730295b4e9e2cf4a467699be9b46c05816e35ac67770e9f3fdfbc8455db476
+    name: gnupg2-gpg-agent
+    evr: 2.4.8-4.fc43
+    sourcerpm: gnupg2-2.4.8-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gnupg2-gpgconf-2.4.8-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 117732
+    checksum: sha256:08e0f927ac7ffe08ee4ccb6484ec95aadd75ec430cf9c0d10c27e89263430538
+    name: gnupg2-gpgconf
+    evr: 2.4.8-4.fc43
+    sourcerpm: gnupg2-2.4.8-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gnupg2-keyboxd-2.4.8-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 96957
+    checksum: sha256:daee9082344180cb2b10ae034eb5c9aa5aa797bebf5d2e222d1570178b343ffa
+    name: gnupg2-keyboxd
+    evr: 2.4.8-4.fc43
+    sourcerpm: gnupg2-2.4.8-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gnupg2-verify-2.4.8-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 175263
+    checksum: sha256:4f6e8cacac4ebc54086deac163b11c4f81b264f2d5854c385a77f6414ea95cb4
+    name: gnupg2-verify
+    evr: 2.4.8-4.fc43
+    sourcerpm: gnupg2-2.4.8-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gnutls-3.8.10-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1470387
+    checksum: sha256:70d98778b43251024204fbaba48eeb53084dbbf747e503d7982c54f868799366
+    name: gnutls
+    evr: 3.8.10-3.fc43
+    sourcerpm: gnutls-3.8.10-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/go-srpm-macros-3.7.0-4.fc43.noarch.rpm
+    repoid: rawhide
+    size: 28816
+    checksum: sha256:c2c5a9eaeb6d9c8aa86505b3231e68c601dcf0fe3cf9bf009f2a229b22ea3ea5
+    name: go-srpm-macros
+    evr: 3.7.0-4.fc43
+    sourcerpm: go-rpm-macros-3.7.0-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gpgverify-2.2-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 11370
+    checksum: sha256:62851cea04400c54ebc4b8aa055bdafb1b40a7e162af8b09960b6ee0b93f6d4b
+    name: gpgverify
+    evr: 2.2-3.fc43
+    sourcerpm: gpgverify-2.2-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/grep-3.12-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 306271
+    checksum: sha256:d9549130679b3868cc4a33c6df5b2d1516d8776761af435e8c55ebacb7e53424
+    name: grep
+    evr: 3.12-2.fc43
+    sourcerpm: grep-3.12-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/g/gzip-1.14-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 181940
+    checksum: sha256:9d8fb45998bf7b5cd63b138fa7dbed33b0a488766e36dc2425bd148bf2b8cbd5
+    name: gzip
+    evr: 1.14-1.fc44
+    sourcerpm: gzip-1.14-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/i/ima-evm-utils-libs-1.6.2-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 30027
+    checksum: sha256:77b07496cfd0020f9d35ce4365715b97840337942343bcc8194e104d8c66ff16
+    name: ima-evm-utils-libs
+    evr: 1.6.2-6.fc43
+    sourcerpm: ima-evm-utils-1.6.2-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/i/info-7.2-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 187258
+    checksum: sha256:0e27bebfb5df58569d99129ba35023d21d0536d9305db2c5facc429feb905dfe
+    name: info
+    evr: 7.2-6.fc43
+    sourcerpm: texinfo-7.2-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/j/jansson-2.14-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 46363
+    checksum: sha256:637651f711c27fb74c2219a0f59a86dcdc25c684deb780a43b66587a8ce48b82
+    name: jansson
+    evr: 2.14-3.fc43
+    sourcerpm: jansson-2.14-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/j/java-srpm-macros-1-7.fc43.noarch.rpm
+    repoid: rawhide
+    size: 8134
+    checksum: sha256:b146257bcd18772db31fff6c57bac4c6504956ffd32662baedd278fc6a569c6f
+    name: java-srpm-macros
+    evr: 1-7.fc43
+    sourcerpm: java-rpm-macros-1-7.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/j/json-c-0.18-7.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 46055
+    checksum: sha256:19150425af3ee0c00e02add7220d4bbdd4ef439d58d816f8eb7b975477aed3f4
+    name: json-c
+    evr: 0.18-7.fc43
+    sourcerpm: json-c-0.18-7.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/k/kbd-2.8.0-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 395379
+    checksum: sha256:e593ada4b2714f19637b060ee8db6f765a21c224a548cfb3359dcf5daf6f6d91
+    name: kbd
+    evr: 2.8.0-3.fc43
+    sourcerpm: kbd-2.8.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/k/kbd-legacy-2.8.0-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 592096
+    checksum: sha256:b5a2b37612bb11ace63eeab99b749b8fb0aafd526eced65f6d712d0f847900c3
+    name: kbd-legacy
+    evr: 2.8.0-3.fc43
+    sourcerpm: kbd-2.8.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/k/kbd-misc-2.8.0-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 1725559
+    checksum: sha256:cfe5895aad1d21b54ab08c158c511f72edf5ef229dcb03022fa1de949765ae2c
+    name: kbd-misc
+    evr: 2.8.0-3.fc43
+    sourcerpm: kbd-2.8.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/k/kernel-srpm-macros-1.0-27.fc43.noarch.rpm
+    repoid: rawhide
+    size: 9135
+    checksum: sha256:fa32cd0156ccdfa1f6ba0336a393f5c99956e532af1aa24b1c20df0770a10cfc
+    name: kernel-srpm-macros
+    evr: 1.0-27.fc43
+    sourcerpm: kernel-srpm-macros-1.0-27.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/k/keyutils-libs-1.6.3-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 32104
+    checksum: sha256:211eb3a52d27532b517510ff0ff2f7f48f363d23a6212d9d213060ee166b63aa
+    name: keyutils-libs
+    evr: 1.6.3-6.fc43
+    sourcerpm: keyutils-1.6.3-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/k/kmod-34.2-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 135987
+    checksum: sha256:9fb16da8df887fc6a0f5e4f6be97fe20faa8a9623beae73866bd917bfc6bae35
+    name: kmod
+    evr: 34.2-3.fc44
+    sourcerpm: kmod-34.2-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/k/kmod-libs-34.2-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 69861
+    checksum: sha256:66e46e4d55527cbb0b4ebbdffb83bfa873db88d9a62015fb07c5ef19c88ee389
+    name: kmod-libs
+    evr: 34.2-3.fc44
+    sourcerpm: kmod-34.2-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/k/krb5-libs-1.21.3-7.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 777088
+    checksum: sha256:ce71c97173af6cd3902e411eb0dbef33fa6ca457ebb34d864471d2c7015e6ed1
+    name: krb5-libs
+    evr: 1.21.3-7.fc43
+    sourcerpm: krb5-1.21.3-7.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libacl-2.3.2-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 24862
+    checksum: sha256:a3409008992fdcc81051be44ef9d2f6b18aacbe48f31bcf9ca135a745a1a82ed
+    name: libacl
+    evr: 2.3.2-4.fc43
+    sourcerpm: acl-2.3.2-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libarchive-3.8.1-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 431241
+    checksum: sha256:9fab0b3ea59d10f47ad172f46e0cafa6f49c5a21ddd67e35881c45f905d96217
+    name: libarchive
+    evr: 3.8.1-3.fc43
+    sourcerpm: libarchive-3.8.1-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libassuan-2.5.7-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 69021
+    checksum: sha256:a4d5b03cac6daa433b013caa03591163ac0d2e2b1e34fa26bc9915319bc07e7a
+    name: libassuan
+    evr: 2.5.7-4.fc43
+    sourcerpm: libassuan-2.5.7-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libattr-2.5.2-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 18281
+    checksum: sha256:c010d15cf39fffbe9dd43f30aa1797fc467569c1fbc0b63eb46056be853a175b
+    name: libattr
+    evr: 2.5.2-6.fc43
+    sourcerpm: attr-2.5.2-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libblkid-2.41.1-16.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 126027
+    checksum: sha256:526bfebf87a1d649d36c9fcc07446b3f66faf005e7d10cc46dfef00f5b74dafb
+    name: libblkid
+    evr: 2.41.1-16.fc44
+    sourcerpm: util-linux-2.41.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libbpf-1.6.1-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 195627
+    checksum: sha256:816a0e550cfc5be0e9660e24c54a4dff13aa8fb3068e2a8f768ef3cd93ffd037
+    name: libbpf
+    evr: 2:1.6.1-3.fc43
+    sourcerpm: libbpf-1.6.1-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libbrotli-1.1.0-9.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 347209
+    checksum: sha256:4d3d5394ea259e15035bd802cb85f9ec6731a2a9f9fa9303e898fee6fcd16cea
+    name: libbrotli
+    evr: 1.1.0-9.fc44
+    sourcerpm: brotli-1.1.0-9.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libcap-2.76-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 89023
+    checksum: sha256:73e181ee91797cdf4d9e6299a3d7d38e090441ded91327bbf5856e155d19a48f
+    name: libcap
+    evr: 2.76-3.fc44
+    sourcerpm: libcap-2.76-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libcap-ng-0.8.5-7.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 32936
+    checksum: sha256:257831a5f74d8fa46145bea40160e0ecf7167ff80a5281f905fdae07910e6c32
+    name: libcap-ng
+    evr: 0.8.5-7.fc44
+    sourcerpm: libcap-ng-0.8.5-7.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libcbor-0.12.0-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 34315
+    checksum: sha256:4f5c74e6fe6791924242d86838ed962964491c1f23e0cf4d9e93b3ab29339f53
+    name: libcbor
+    evr: 0.12.0-6.fc43
+    sourcerpm: libcbor-0.12.0-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libcom_err-1.47.3-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 27435
+    checksum: sha256:690117a99bc49ddc26bb96834fe03a8d990ecc378129adfde4e6126fcdeba19d
+    name: libcom_err
+    evr: 1.47.3-2.fc43
+    sourcerpm: e2fsprogs-1.47.3-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libcurl-8.16.0~rc2-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 419904
+    checksum: sha256:5ee8d9e8a1714e9b2a489d8a9a5393e536051337b3a93199269382aa3d3a82d8
+    name: libcurl
+    evr: 8.16.0~rc2-1.fc44
+    sourcerpm: curl-8.16.0~rc2-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libeconf-0.7.9-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 36056
+    checksum: sha256:f605e6a28fe88c74087785506f00a902955d84f01ade5c68d617052488380a39
+    name: libeconf
+    evr: 0.7.9-2.fc43
+    sourcerpm: libeconf-0.7.9-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libevent-2.1.12-16.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 263971
+    checksum: sha256:45215adae16ef8e31c34cf31b54451eddd2450ad28244468c7ff4c55d9487fbf
+    name: libevent
+    evr: 2.1.12-16.fc43
+    sourcerpm: libevent-2.1.12-16.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libfdisk-2.41.1-16.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 165205
+    checksum: sha256:e1ac37bb1bacf5f26972a3c6bc4f57f40f821efb5842e4e12ed48b80217f8e23
+    name: libfdisk
+    evr: 2.41.1-16.fc44
+    sourcerpm: util-linux-2.41.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libffi-3.5.1-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 41907
+    checksum: sha256:432191c401cb3cccaf02f754e15417bdebf7672e812cad9e12dfe2c7d99df46a
+    name: libffi
+    evr: 3.5.1-2.fc43
+    sourcerpm: libffi-3.5.1-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libfido2-1.16.0-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 100818
+    checksum: sha256:57a37592ae961dc3e6e6ae9e6e6a4c01c0ae689cdc7a53b459b7b6cc4efe399e
+    name: libfido2
+    evr: 1.16.0-3.fc43
+    sourcerpm: libfido2-1.16.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libfsverity-1.6-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 19075
+    checksum: sha256:2c99028ea46aa0bd8efc132e3c3bd018c56bc0c929aee3edabd2b591f1b90663
+    name: libfsverity
+    evr: 1.6-3.fc43
+    sourcerpm: fsverity-utils-1.6-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libgcc-15.2.1-1.fc44.1.x86_64.rpm
+    repoid: rawhide
+    size: 134975
+    checksum: sha256:92fc4f4b0ab6aebd20a330a87863edfe0178313c9906d01452593495ce6f4441
+    name: libgcc
+    evr: 15.2.1-1.fc44.1
+    sourcerpm: gcc-15.2.1-1.fc44.1.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libgcrypt-1.11.1-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 610149
+    checksum: sha256:8d9001324e1eeaba44a9b6f271269f54eb06ff2be081e71ca2cd57f14bed70cf
+    name: libgcrypt
+    evr: 1.11.1-2.fc43
+    sourcerpm: libgcrypt-1.11.1-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libgomp-15.2.1-1.fc44.1.x86_64.rpm
+    repoid: rawhide
+    size: 380581
+    checksum: sha256:3837090edb467582baf1f453b8e41067dee0da15de13282e9ac20a9992557ebb
+    name: libgomp
+    evr: 15.2.1-1.fc44.1
+    sourcerpm: gcc-15.2.1-1.fc44.1.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libgpg-error-1.55-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 250137
+    checksum: sha256:e0163bd133645d82fc7fd2a69c90d702cc609213fe84a9cb4cbbcbfa29cb1681
+    name: libgpg-error
+    evr: 1.55-2.fc43
+    sourcerpm: libgpg-error-1.55-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libidn2-2.3.8-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 179072
+    checksum: sha256:4499b1e92d9940f775d682491040823ee72245ad5dd98edf61e1c73bdb37d1be
+    name: libidn2
+    evr: 2.3.8-2.fc43
+    sourcerpm: libidn2-2.3.8-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libksba-1.6.7-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 164296
+    checksum: sha256:716d41f040c5590f887e8f4d3107368c4ff2c32ddeb0e8f20f5ae1f9ce3fb68e
+    name: libksba
+    evr: 1.6.7-4.fc43
+    sourcerpm: libksba-1.6.7-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/liblastlog2-2.41.1-16.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 23736
+    checksum: sha256:f27aca130770ada21b87d41e3c5686b6ffd8f7ad6a89f5ed28c394325e8fbf25
+    name: liblastlog2
+    evr: 2.41.1-16.fc44
+    sourcerpm: util-linux-2.41.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libmount-2.41.1-16.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 166303
+    checksum: sha256:52eb47090caffa58f620f13ac7aab96026eb9eebefe762156a2ed9ee73bde729
+    name: libmount
+    evr: 2.41.1-16.fc44
+    sourcerpm: util-linux-2.41.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libnghttp2-1.66.0-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 74243
+    checksum: sha256:fc2c32ace7437bc189a6823487f341820f8fa9cb3f9907cf350fa6f0712f7e19
+    name: libnghttp2
+    evr: 1.66.0-2.fc43
+    sourcerpm: nghttp2-1.66.0-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libnsl2-2.0.1-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 30094
+    checksum: sha256:3806ce5483e14e90f3799dd12bbc56afbba82119b1d1156d778a743fa9192ec1
+    name: libnsl2
+    evr: 2.0.1-4.fc43
+    sourcerpm: libnsl2-2.0.1-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libpkgconf-2.3.0-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 38807
+    checksum: sha256:52f704ae725de2b2d60797553af2c4a2466ef3b80c390e5a97ddb33cd5418714
+    name: libpkgconf
+    evr: 2.3.0-3.fc43
+    sourcerpm: pkgconf-2.3.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libpsl-0.21.5-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 66527
+    checksum: sha256:e92ad6e169cdbde1b750450cbafdc688a566a7a261c6eee2e6b72d7289c089a2
+    name: libpsl
+    evr: 0.21.5-6.fc43
+    sourcerpm: libpsl-0.21.5-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libpwquality-1.4.5-14.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 120855
+    checksum: sha256:606c3d667ae96e0cadbe641ff3d618d40e2fd43d418a49827ec6d4f2d19225a0
+    name: libpwquality
+    evr: 1.4.5-14.fc43
+    sourcerpm: libpwquality-1.4.5-14.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libseccomp-2.6.0-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 77551
+    checksum: sha256:fde73e96f6403de9cd90c5b3871bcaf2bd2363b8ce6aef7b10e4fedec458d6b1
+    name: libseccomp
+    evr: 2.6.0-2.fc43
+    sourcerpm: libseccomp-2.6.0-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libsecret-0.21.7-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 200517
+    checksum: sha256:50d1253637d5e36ec0b617c8c4f34451514f4b46a7dd906fa2f0a502db1a1112
+    name: libsecret
+    evr: 0.21.7-3.fc44
+    sourcerpm: libsecret-0.21.7-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libselinux-3.9-4.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 99910
+    checksum: sha256:95a6577561888ad39b04e8aaec73e4dc2f2c4fda68d2a1c2560835071209a879
+    name: libselinux
+    evr: 3.9-4.fc44
+    sourcerpm: libselinux-3.9-4.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libsemanage-3.9-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 126400
+    checksum: sha256:59e430de9d10ffd7c01a156ef0073ee9d08db0f935d614f5b202097d8f3e985a
+    name: libsemanage
+    evr: 3.9-3.fc44
+    sourcerpm: libsemanage-3.9-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libsepol-3.9-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 353660
+    checksum: sha256:f8579d40622504a8567581213bb4a42fb4c402fc79160aea95364ee33588a664
+    name: libsepol
+    evr: 3.9-2.fc43
+    sourcerpm: libsepol-3.9-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libsmartcols-2.41.1-16.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 85971
+    checksum: sha256:7c4f54212da8ff66c9fb75b5f15e2cb4600e3bff81b0a33705e1f5ac0c5eb193
+    name: libsmartcols
+    evr: 2.41.1-16.fc44
+    sourcerpm: util-linux-2.41.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libssh-0.11.2-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 238259
+    checksum: sha256:f0d897ff3b2cab984ab79b2e635d76548ae02eb1f15eab95e92deb1bc23de35d
+    name: libssh
+    evr: 0.11.2-2.fc43
+    sourcerpm: libssh-0.11.2-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libssh-config-0.11.2-2.fc43.noarch.rpm
+    repoid: rawhide
+    size: 9063
+    checksum: sha256:25118fc7d81c5914f8bf481ca10a889c61d179c0b72a097bb90b00afeadfb7f6
+    name: libssh-config
+    evr: 0.11.2-2.fc43
+    sourcerpm: libssh-0.11.2-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libstdc++-15.2.1-1.fc44.1.x86_64.rpm
+    repoid: rawhide
+    size: 940929
+    checksum: sha256:2fa039c7245d7bb11745ac1162dafb6f5bbdbf92d385bd5f46b5fac6af92a0c5
+    name: libstdc++
+    evr: 15.2.1-1.fc44.1
+    sourcerpm: gcc-15.2.1-1.fc44.1.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libtasn1-4.20.0-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 76252
+    checksum: sha256:1649c9ab10f4779f7a6f3a56894c59841abe4522904fe8937dc5107a5cca384b
+    name: libtasn1
+    evr: 4.20.0-2.fc43
+    sourcerpm: libtasn1-4.20.0-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libtirpc-1.3.7-0.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 96308
+    checksum: sha256:d58052754d9f6d234165ab916b4668fdcb6e0dda419f97a26e2ecb50bd2bab7d
+    name: libtirpc
+    evr: 1.3.7-0.fc44
+    sourcerpm: libtirpc-1.3.7-0.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libtool-ltdl-2.5.4-7.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 37103
+    checksum: sha256:a787169196b1e51d656195b9f1c1eb423f80377d2385118e5ab965376e0f2327
+    name: libtool-ltdl
+    evr: 2.5.4-7.fc43
+    sourcerpm: libtool-2.5.4-7.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libunistring-1.1-10.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 555961
+    checksum: sha256:59e27253be6c1fecac507f44bdddfb1c74d29a9f74041a7eca64eb559c99cf4d
+    name: libunistring
+    evr: 1.1-10.fc43
+    sourcerpm: libunistring-1.1-10.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libusb1-1.0.29-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 81628
+    checksum: sha256:4342214e211771e808e5dd2e9affc0b9168cf3925ceb7dcaba4490efb7b76b78
+    name: libusb1
+    evr: 1.0.29-3.fc43
+    sourcerpm: libusb1-1.0.29-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libuuid-2.41.1-16.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 26758
+    checksum: sha256:94548e78578be9ccac531fc26fb7c6320ec37a7f7cb88f1fc990cdcdf347078d
+    name: libuuid
+    evr: 2.41.1-16.fc44
+    sourcerpm: util-linux-2.41.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libverto-0.3.2-11.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 21171
+    checksum: sha256:46cf35e99b93c05b609696ff75c9f4e086827e80de94644337e0f26f47b444f0
+    name: libverto
+    evr: 0.3.2-11.fc43
+    sourcerpm: libverto-0.3.2-11.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libxcrypt-4.4.38-8.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 130030
+    checksum: sha256:c8078e4ebcc07188d2368b250b221f4c5fb5d38bc4a13429655b2a66a660ca4f
+    name: libxcrypt
+    evr: 4.4.38-8.fc43
+    sourcerpm: libxcrypt-4.4.38-8.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libxkbcommon-1.11.0-1.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 178521
+    checksum: sha256:0b5cb77ef9c18bf794f1c791d3d098622f3cfb2d4b08fda9f19093ecb1e89041
+    name: libxkbcommon
+    evr: 1.11.0-1.fc43
+    sourcerpm: libxkbcommon-1.11.0-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libxml2-2.12.10-4.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 709079
+    checksum: sha256:b55a7f1df692ae7d1281eee47530cfee19a1c82c21b133b0d9eef474278bde1d
+    name: libxml2
+    evr: 2.12.10-4.fc44
+    sourcerpm: libxml2-2.12.10-4.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/libzstd-1.5.7-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 322123
+    checksum: sha256:7b1ed7cf89275c91ed15f0d3f30f059057bc0df3f6761f638b58a5c17fdc9d37
+    name: libzstd
+    evr: 1.5.7-2.fc43
+    sourcerpm: zstd-1.5.7-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/lua-libs-5.4.8-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 134873
+    checksum: sha256:3a60c6d56402ea3b8b84f7b6e50cbaaf6e6a773cf9f3c889772dc0c281e2340e
+    name: lua-libs
+    evr: 5.4.8-2.fc43
+    sourcerpm: lua-5.4.8-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/lua-srpm-macros-1-16.fc43.noarch.rpm
+    repoid: rawhide
+    size: 8967
+    checksum: sha256:e2cf29da3fc8c12c320e8685fd228d7f656c2b64e533ca3c7b288c8fd27bcc76
+    name: lua-srpm-macros
+    evr: 1-16.fc43
+    sourcerpm: lua-rpm-macros-1-16.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/l/lz4-libs-1.10.0-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 79895
+    checksum: sha256:37ec34ba16ebe5f79e54e2e07e79d0d871c9ef9a9d41cb1acf9bade3956b1dd6
+    name: lz4-libs
+    evr: 1.10.0-3.fc43
+    sourcerpm: lz4-1.10.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/m/mkpasswd-5.6.4-1.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 25667
+    checksum: sha256:435016c684ca6af89e2082c42c42e110c44feb09fd1df8519973a2e471c498bb
+    name: mkpasswd
+    evr: 5.6.4-1.fc43
+    sourcerpm: whois-5.6.4-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/m/mpdecimal-4.0.1-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 99440
+    checksum: sha256:aad57840fa2437b9f807a02d40c21d5b893829b5ceee612fc81bce44337f4020
+    name: mpdecimal
+    evr: 4.0.1-2.fc43
+    sourcerpm: mpdecimal-4.0.1-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/m/mpfr-4.2.2-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 355299
+    checksum: sha256:48847fae1da6acca2a810627446e0db5d5c86533d87ff275ddb3f3a1cf902dcc
+    name: mpfr
+    evr: 4.2.2-2.fc43
+    sourcerpm: mpfr-4.2.2-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/n/ncurses-base-6.5-7.20250614.fc43.noarch.rpm
+    repoid: rawhide
+    size: 90314
+    checksum: sha256:96c933d77b453617d65fa662fda74b17efea86288d8e570d09aa45dd0fedd41b
+    name: ncurses-base
+    evr: 6.5-7.20250614.fc43
+    sourcerpm: ncurses-6.5-7.20250614.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/n/ncurses-libs-6.5-7.20250614.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 340714
+    checksum: sha256:727712380a7c5a94ea60e4fe851aba24f9c7b32fe9a15c21109162b9c3587baf
+    name: ncurses-libs
+    evr: 6.5-7.20250614.fc43
+    sourcerpm: ncurses-6.5-7.20250614.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/n/nettle-3.10.1-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 434332
+    checksum: sha256:55a19d2611ef2f6987714ec4977f1376a7aa8a35d2bb1f1728468984d0da749c
+    name: nettle
+    evr: 3.10.1-2.fc43
+    sourcerpm: nettle-3.10.1-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/n/npth-1.8-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 26272
+    checksum: sha256:ec33d1b3be7054d2ff9bd4962bc90eba26dfd383d3d638bb3456e2e99897ff5e
+    name: npth
+    evr: 1.8-3.fc43
+    sourcerpm: npth-1.8-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/o/ocaml-srpm-macros-11-2.fc43.noarch.rpm
+    repoid: rawhide
+    size: 9483
+    checksum: sha256:74fb9d694700b11836b27eef3d016fea5eed1f6756174117ff37a023901fd20c
+    name: ocaml-srpm-macros
+    evr: 11-2.fc43
+    sourcerpm: ocaml-srpm-macros-11-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/o/openblas-srpm-macros-2-20.fc43.noarch.rpm
+    repoid: rawhide
+    size: 7777
+    checksum: sha256:657f3b4b45f7ed93dddcc23a2dcd2fb689dfcbb164e08931823c029b3a1f3b62
+    name: openblas-srpm-macros
+    evr: 2-20.fc43
+    sourcerpm: openblas-srpm-macros-2-20.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/o/openldap-2.6.10-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 265299
+    checksum: sha256:013450d9c73c75cc38b9e3285f3f2ff7e8811253dd3a70785721e2f6eb383200
+    name: openldap
+    evr: 2.6.10-3.fc43
+    sourcerpm: openldap-2.6.10-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/o/openssl-libs-3.5.1-3.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 2662406
+    checksum: sha256:282089503514efc9660ee1730603b0cb1d6216b623b5f17da549133f356aaf0c
+    name: openssl-libs
+    evr: 1:3.5.1-3.fc44
+    sourcerpm: openssl-3.5.1-3.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/p11-kit-0.25.5-9.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 499780
+    checksum: sha256:bc0b48d3609be33f6494d3b846c2bafc476ae7b50a26bc74df86d9ac8c3fac10
+    name: p11-kit
+    evr: 0.25.5-9.fc43
+    sourcerpm: p11-kit-0.25.5-9.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/p11-kit-trust-0.25.5-9.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 135506
+    checksum: sha256:d4206a8e7646ac33d8e5e7bb626afdbd262d824d47c553d7bb24c0050d8dabaa
+    name: p11-kit-trust
+    evr: 0.25.5-9.fc43
+    sourcerpm: p11-kit-0.25.5-9.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/package-notes-srpm-macros-0.5-14.fc43.noarch.rpm
+    repoid: rawhide
+    size: 9201
+    checksum: sha256:8ae74da09cea49391f0d2ad596f02005ba3421b5a72d45f8a8675763a33c69c7
+    name: package-notes-srpm-macros
+    evr: 0.5-14.fc43
+    sourcerpm: package-notes-0.5-14.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pam-1.7.1-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 561780
+    checksum: sha256:7bd20a494c74e15bda3a53e79fa3a71989ddf7be872493a15244e8c44b33ecff
+    name: pam
+    evr: 1.7.1-3.fc43
+    sourcerpm: pam-1.7.1-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pam-libs-1.7.1-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 58903
+    checksum: sha256:921d91b65c04421a7236084e1704deb4e9ec37135b896c49ba9506c5c9140832
+    name: pam-libs
+    evr: 1.7.1-3.fc43
+    sourcerpm: pam-1.7.1-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/patch-2.8-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 116514
+    checksum: sha256:250cfd465fc553179de645b763fb4efa2eeee69d98bf76af18d0ec156a83d3c1
+    name: patch
+    evr: 2.8-2.fc43
+    sourcerpm: patch-2.8-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pcre2-10.45-1.fc43.1.x86_64.rpm
+    repoid: rawhide
+    size: 268207
+    checksum: sha256:c5b71ad074a8805f1a6b09a85f321056d5b39e0f56e4a9716a5f6f98657ff68b
+    name: pcre2
+    evr: 10.45-1.fc43.1
+    sourcerpm: pcre2-10.45-1.fc43.1.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pcre2-syntax-10.45-1.fc43.1.noarch.rpm
+    repoid: rawhide
+    size: 165603
+    checksum: sha256:ef1b6a8cdeccd98ece5f4375578792b5310bbc3dd85913b0fa411b48c0293a58
+    name: pcre2-syntax
+    evr: 10.45-1.fc43.1
+    sourcerpm: pcre2-10.45-1.fc43.1.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/perl-srpm-macros-1-60.fc43.noarch.rpm
+    repoid: rawhide
+    size: 8488
+    checksum: sha256:4b4a7fd3697f77e65887a34ef60ebeb15bf9c0534c49bdd4cdced011b165a2de
+    name: perl-srpm-macros
+    evr: 1-60.fc43
+    sourcerpm: perl-srpm-macros-1-60.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pinentry-1.3.2-1.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 115187
+    checksum: sha256:c63fc8d92c4ebaf607ff49a614dcf5498ca1351717ec261d7576fafe7778fc9c
+    name: pinentry
+    evr: 1.3.2-1.fc43
+    sourcerpm: pinentry-1.3.2-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pkcs11-provider-1.0-4.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 145826
+    checksum: sha256:1136966ce5c69ba2b66a83efcfcc5e2f62287b98f046e2d462e85a93675de4df
+    name: pkcs11-provider
+    evr: 1.0-4.fc43
+    sourcerpm: pkcs11-provider-1.0-4.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pkgconf-2.3.0-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 45639
+    checksum: sha256:b45e108d5eebb7de94fd64024a246860502513ba8d13622f0daa1454135f5ab4
+    name: pkgconf
+    evr: 2.3.0-3.fc43
+    sourcerpm: pkgconf-2.3.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pkgconf-m4-2.3.0-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 14245
+    checksum: sha256:7a8ee879ce6dee8966cc6f27560213c66ccc41096ff6fd8cd2a616e3a8e3bd3b
+    name: pkgconf-m4
+    evr: 2.3.0-3.fc43
+    sourcerpm: pkgconf-2.3.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pkgconf-pkg-config-2.3.0-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 9839
+    checksum: sha256:f640d676412bb0e7e32739ff75e8378608d400e0ef3553201bc2ce69c36bf57a
+    name: pkgconf-pkg-config
+    evr: 2.3.0-3.fc43
+    sourcerpm: pkgconf-2.3.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/popt-1.19-9.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 67269
+    checksum: sha256:3b7c54fcf388e596bc0741a90107477db591272ab85769b615353435a9559048
+    name: popt
+    evr: 1.19-9.fc43
+    sourcerpm: popt-1.19-9.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/publicsuffix-list-dafsa-20250616-2.fc43.noarch.rpm
+    repoid: rawhide
+    size: 60573
+    checksum: sha256:40a2cc5adf1333bb734b26ea51206434129cd282b291e121686c2fe3859bccf9
+    name: publicsuffix-list-dafsa
+    evr: 20250616-2.fc43
+    sourcerpm: publicsuffix-list-20250616-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/pyproject-srpm-macros-1.18.3-2.fc43.noarch.rpm
+    repoid: rawhide
+    size: 13688
+    checksum: sha256:2e7b6d81a6ec3266aeb746b60f169a798de7e6ec42500ad2d1db621db52ae950
+    name: pyproject-srpm-macros
+    evr: 1.18.3-2.fc43
+    sourcerpm: pyproject-rpm-macros-1.18.3-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/python-pip-wheel-25.1.1-16.fc44.noarch.rpm
+    repoid: rawhide
+    size: 1263273
+    checksum: sha256:abff52c1ab2eed2822be0e83e506e2eb65a72aef48e0f779d05afdfdec193efc
+    name: python-pip-wheel
+    evr: 25.1.1-16.fc44
+    sourcerpm: python-pip-25.1.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/python-srpm-macros-3.14-6.fc44.noarch.rpm
+    repoid: rawhide
+    size: 23939
+    checksum: sha256:e33b93e9d960c7a77a50c41c17ba7820e8d99fd7f2cf8306a95342614a791ea8
+    name: python-srpm-macros
+    evr: 3.14-6.fc44
+    sourcerpm: python-rpm-macros-3.14-6.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/python-unversioned-command-3.14.0~rc2-1.fc44.noarch.rpm
+    repoid: rawhide
+    size: 9728
+    checksum: sha256:a40328993159aa5b4147dd6a4fa8569183b125a0d938e63327158bbd797f2738
+    name: python-unversioned-command
+    evr: 3.14.0~rc2-1.fc44
+    sourcerpm: python3.14-3.14.0~rc2-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/python3-3.14.0~rc2-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 28141
+    checksum: sha256:49d01c7ef594b3765087d0b9feff4cd9b02dbd3240a4e8f1d1413797f9decde4
+    name: python3
+    evr: 3.14.0~rc2-1.fc44
+    sourcerpm: python3.14-3.14.0~rc2-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/p/python3-libs-3.14.0~rc2-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 10290774
+    checksum: sha256:89faa9ea5101ed5a173f75948b9b7eea9679994674a107315d3dfa21797609ca
+    name: python3-libs
+    evr: 3.14.0~rc2-1.fc44
+    sourcerpm: python3.14-3.14.0~rc2-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/q/qrencode-libs-4.1.1-11.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 63829
+    checksum: sha256:9f4ebf01762bff0609df277d06c35aa3e56bd11ceaae331a0bfc812e041b82cd
+    name: qrencode-libs
+    evr: 4.1.1-11.fc43
+    sourcerpm: qrencode-4.1.1-11.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/q/qt5-srpm-macros-5.15.17-2.fc43.noarch.rpm
+    repoid: rawhide
+    size: 8869
+    checksum: sha256:d42244c812c761d8c0d8a68a8936c514d665d69230a7967abba74f80cf29a2e5
+    name: qt5-srpm-macros
+    evr: 5.15.17-2.fc43
+    sourcerpm: qt5-5.15.17-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/q/qt6-srpm-macros-6.9.1-2.fc43.noarch.rpm
+    repoid: rawhide
+    size: 9555
+    checksum: sha256:560909bec46bdde9b43dbb10293e902e845ccedf97da20b18a2560aa18c298d5
+    name: qt6-srpm-macros
+    evr: 6.9.1-2.fc43
+    sourcerpm: qt6-6.9.1-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/readline-8.3-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 229987
+    checksum: sha256:d8e3bceeb89256accbb3cbcaddeaaed3073376b74395d5b015c8997740600da6
+    name: readline
+    evr: 8.3-2.fc43
+    sourcerpm: readline-8.3-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/redhat-rpm-config-343-13.fc44.noarch.rpm
+    repoid: rawhide
+    size: 81314
+    checksum: sha256:099124249035fec310b4567f58fdcc7e3514b35adef5f520e00adc5421afc856
+    name: redhat-rpm-config
+    evr: 343-13.fc44
+    sourcerpm: redhat-rpm-config-343-13.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/rpm-5.99.92-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 578087
+    checksum: sha256:f1274f603a4b263a9b1aeab9d2267f592568452431363e1f009dabd9e3b6e82c
+    name: rpm
+    evr: 5.99.92-1.fc44
+    sourcerpm: rpm-5.99.92-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/rpm-build-5.99.92-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 138858
+    checksum: sha256:e2fe37488986f11ca1645bb24434379cc09d57083953b93ef109dcf7523f28c3
+    name: rpm-build
+    evr: 5.99.92-1.fc44
+    sourcerpm: rpm-5.99.92-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/rpm-build-libs-5.99.92-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 130908
+    checksum: sha256:1f837b898192fb49905f7cd03b0e55a3056a03fa5d0633056a8149449672cc5d
+    name: rpm-build-libs
+    evr: 5.99.92-1.fc44
+    sourcerpm: rpm-5.99.92-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/rpm-libs-5.99.92-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 409498
+    checksum: sha256:a2248ab93fd4516c0d44684d3280e809d9994fa7d5e80ae783e5c4ba57578e54
+    name: rpm-libs
+    evr: 5.99.92-1.fc44
+    sourcerpm: rpm-5.99.92-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/rpm-plugin-audit-5.99.92-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 19640
+    checksum: sha256:e3a21d97593a28af35065dc519258ab87038935dd64799383359ecfa4d2263f5
+    name: rpm-plugin-audit
+    evr: 5.99.92-1.fc44
+    sourcerpm: rpm-5.99.92-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/rpm-sequoia-1.9.0-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 955663
+    checksum: sha256:d19cc7dbdd70c2ee6630d24d466a6c4dc4ec60c97725a3bbb304eb7960f5da4a
+    name: rpm-sequoia
+    evr: 1.9.0-2.fc43
+    sourcerpm: rust-rpm-sequoia-1.9.0-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/rpm-sign-libs-5.99.92-1.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 28875
+    checksum: sha256:8597ca86206c3776f1d4a712451a042421ca1b9263959b00815058756fbea75c
+    name: rpm-sign-libs
+    evr: 5.99.92-1.fc44
+    sourcerpm: rpm-5.99.92-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/r/rust-srpm-macros-26.4-1.fc44.noarch.rpm
+    repoid: rawhide
+    size: 11428
+    checksum: sha256:76d070a2c4b2710ff0ea4266de36825a2b56bb7e0457cfc34ad8cb4095167e4d
+    name: rust-srpm-macros
+    evr: 26.4-1.fc44
+    sourcerpm: rust-packaging-26.4-1.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/sed-4.9-5.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 324683
+    checksum: sha256:53cd420264bc811610f2d33bcec8c29d0f56362b8a4777a8a3d4dec8982c336a
+    name: sed
+    evr: 4.9-5.fc43
+    sourcerpm: sed-4.9-5.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/setup-2.15.0-26.fc43.noarch.rpm
+    repoid: rawhide
+    size: 161100
+    checksum: sha256:bc8674d724c5000b0381c87b77430d2858f7caffac223161b7a2852ace87bed3
+    name: setup
+    evr: 2.15.0-26.fc43
+    sourcerpm: setup-2.15.0-26.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/shadow-utils-4.18.0-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 1344941
+    checksum: sha256:7c1616c97cc721bf72ddbc90ca43070482cd1c89a7a62abe2957343a9b885c15
+    name: shadow-utils
+    evr: 2:4.18.0-3.fc43
+    sourcerpm: shadow-utils-4.18.0-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/sqlite-libs-3.50.2-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 778779
+    checksum: sha256:2820b7fc6f28a8658a56fc3d23b8e99b74e06bbee58f5056c71ea37bafe13833
+    name: sqlite-libs
+    evr: 3.50.2-2.fc43
+    sourcerpm: sqlite-3.50.2-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-258~rc3-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 4419648
+    checksum: sha256:ba7825f3b0f6d5b129967c0324e2221f264c3ab7aade49cf6c6f8d1f75bb8600
+    name: systemd
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-libs-258~rc3-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 841530
+    checksum: sha256:e01315ec4bd07c8c7247c1c9efd00ad2890cf74ed9361aaa3d6b18293c3df8e6
+    name: systemd-libs
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-networkd-258~rc3-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 789716
+    checksum: sha256:bb786e6c656e4ee5803601e5c7ae99c00f9c3c03b3a85a46396b01ed9fa04b48
+    name: systemd-networkd
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-pam-258~rc3-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 427837
+    checksum: sha256:11a4dd866b50e1fa5d9d79a0482f9233cb506607f9c674b9729fffe438bd03fd
+    name: systemd-pam
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-resolved-258~rc3-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 323657
+    checksum: sha256:c1fff265555da44050a9000b55473368956417012eb9ffd91f1dfc1a57c94c82
+    name: systemd-resolved
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-rpm-macros-258~rc3-2.fc44.noarch.rpm
+    repoid: rawhide
+    size: 14286
+    checksum: sha256:3e4e82951cd23addbf55e240c7feb92769096c72d4bb4522f191008f260ac96f
+    name: systemd-rpm-macros
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-shared-258~rc3-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 1920444
+    checksum: sha256:b06c47839b79004a50cd9370789965b6917d29366bc46fcdecf36cfd7c0fcedc
+    name: systemd-shared
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-sysusers-258~rc3-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 48402
+    checksum: sha256:8ec9087c2d2ea0ec05831489c28e867ffeb9b34628bff08f88ff52d9a4ca1efc
+    name: systemd-sysusers
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/s/systemd-udev-258~rc3-2.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 2588642
+    checksum: sha256:560c2dd68326b6679051e1b21da9e1f95080554d7c895e2f08b5bc67acdccc27
+    name: systemd-udev
+    evr: 258~rc3-2.fc44
+    sourcerpm: systemd-258~rc3-2.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/t/tar-1.35-6.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 876941
+    checksum: sha256:ca8146050e36da7541b4b9a546c2db23cac22c5045e510d42e87918d749ed853
+    name: tar
+    evr: 2:1.35-6.fc43
+    sourcerpm: tar-1.35-6.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/t/tpm2-tss-4.1.3-8.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 436115
+    checksum: sha256:c54abe911eaaa7c5adea93158c63c983d20200270fbbdcec59001897c37a489b
+    name: tpm2-tss
+    evr: 4.1.3-8.fc43
+    sourcerpm: tpm2-tss-4.1.3-8.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/t/tree-sitter-srpm-macros-0.4.2-1.fc43.noarch.rpm
+    repoid: rawhide
+    size: 13671
+    checksum: sha256:243306643362531d3078031f3c01822eba298f86009268adc66ebcfd2549b154
+    name: tree-sitter-srpm-macros
+    evr: 0.4.2-1.fc43
+    sourcerpm: tree-sitter-srpm-macros-0.4.2-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/t/tzdata-2025b-3.fc43.noarch.rpm
+    repoid: rawhide
+    size: 731033
+    checksum: sha256:af599d6221dd44a934f7bee6b429fb1a1f49c0c659149c015d4cab7d580e074e
+    name: tzdata
+    evr: 2025b-3.fc43
+    sourcerpm: tzdata-2025b-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/u/unzip-6.0-68.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 189011
+    checksum: sha256:edc942c3a35b53da0870e0079b609eb14344b41ac93252e7de5b0139c32a00cf
+    name: unzip
+    evr: 6.0-68.fc44
+    sourcerpm: unzip-6.0-68.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/u/util-linux-2.41.1-16.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 1248283
+    checksum: sha256:a5c62620edb5b276580810663dd3cc458ed796bc23b755c1ef28ffbd634e2d28
+    name: util-linux
+    evr: 2.41.1-16.fc44
+    sourcerpm: util-linux-2.41.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/u/util-linux-core-2.41.1-16.fc44.x86_64.rpm
+    repoid: rawhide
+    size: 564185
+    checksum: sha256:570209f534f1dd3ef824914acb4f64683c112a4dd7b63c661ce2d4103f6d1875
+    name: util-linux-core
+    evr: 2.41.1-16.fc44
+    sourcerpm: util-linux-2.41.1-16.fc44.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/w/which-2.23-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 42734
+    checksum: sha256:0be6453e3587a077ded8436b126e7805c0ef0dfa1e66ebf8d2e7a2123b7a0cda
+    name: which
+    evr: 2.23-3.fc43
+    sourcerpm: which-2.23-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/w/whois-nls-5.6.4-1.fc43.noarch.rpm
+    repoid: rawhide
+    size: 38206
+    checksum: sha256:f213fc0f9041f955222c1031b4f8945303b0d49f8a6219993573de4f0c1f0d85
+    name: whois-nls
+    evr: 5.6.4-1.fc43
+    sourcerpm: whois-5.6.4-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/x/xkeyboard-config-2.45-1.fc43.noarch.rpm
+    repoid: rawhide
+    size: 1008147
+    checksum: sha256:c53032e5ab96bc6398ffcef2aa5e1ed01c59fca56bcba648d792c07259d9ff8f
+    name: xkeyboard-config
+    evr: 2.45-1.fc43
+    sourcerpm: xkeyboard-config-2.45-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/x/xxhash-libs-0.8.3-3.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 39409
+    checksum: sha256:3c5f5a0d9fe0cca4eb07ee312c4cf3913a72c88e096946c53b4095140b6f90ed
+    name: xxhash-libs
+    evr: 0.8.3-3.fc43
+    sourcerpm: xxhash-0.8.3-3.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/x/xz-5.8.1-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 586258
+    checksum: sha256:5bca64f97ebb8805782295c9a6e4ffc8afc1e93a5b07feae4cd73a93533b593c
+    name: xz
+    evr: 1:5.8.1-2.fc43
+    sourcerpm: xz-5.8.1-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/x/xz-libs-5.8.1-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 115650
+    checksum: sha256:641c1b3bd57e7d707e385902ae0442d42232455c39ec366d5bbc7167d2ba25aa
+    name: xz-libs
+    evr: 1:5.8.1-2.fc43
+    sourcerpm: xz-5.8.1-2.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/z/zig-srpm-macros-1-5.fc43.noarch.rpm
+    repoid: rawhide
+    size: 8637
+    checksum: sha256:7d5cd27e1f7c402e79b7e68ce701b4f2ab95787e8807f755d3e98a33289d2806
+    name: zig-srpm-macros
+    evr: 1-5.fc43
+    sourcerpm: zig-srpm-macros-1-5.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/z/zip-3.0-44.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 267857
+    checksum: sha256:5b9ed49c0b73b706433b8e42305932f8e33c294b7a80d21b4045e97b1efca290
+    name: zip
+    evr: 3.0-44.fc43
+    sourcerpm: zip-3.0-44.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/z/zlib-ng-compat-2.2.5-1.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 81111
+    checksum: sha256:2fc7ff3fca1408f407da6bcceb32ed2711dd560703ed31a7da25e216179c4fd4
+    name: zlib-ng-compat
+    evr: 2.2.5-1.fc43
+    sourcerpm: zlib-ng-2.2.5-1.fc43.src.rpm
+  - url: http://cofractal-sea.mm.fcix.net/fedora/linux/development/rawhide/Everything/x86_64/os/Packages/z/zstd-1.5.7-2.fc43.x86_64.rpm
+    repoid: rawhide
+    size: 497529
+    checksum: sha256:4aa46b066d6b605cc5cd7d9b7481ca6c0be8a0435df3cb8b78536d1e1d89f121
+    name: zstd
+    evr: 1.5.7-2.fc43
+    sourcerpm: zstd-1.5.7-2.fc43.src.rpm
+  source:
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/acl-2.3.2-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 633361
+    checksum: sha256:2377c5bcd45b5fa25bb5a142eac2a3734ee6e20e23c823449e0f88a964ab6970
+    name: acl
+    evr: 2.3.2-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/ansible-packaging-1-18.1.fc43.src.rpm
+    repoid: rawhide-source
+    size: 34647
+    checksum: sha256:d81e7e76269a46972bf2bc0b5ed3ad44633452194884e22b8e831b9f8af62e7b
+    name: ansible-packaging
+    evr: 1-18.1.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/attr-2.5.2-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 409941
+    checksum: sha256:cd2a6957afb4bbb99d4ab18408e4b16fe47a990e25b7e46b613bc99c074a08dd
+    name: attr
+    evr: 2.5.2-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/audit-4.1.1-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 698081
+    checksum: sha256:09c5691cb3f7cd61654b5fd858631c8169846d12d682ba1952cbcbfa52be6f53
+    name: audit
+    evr: 4.1.1-2.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/a/authselect-1.6.1-1.fc43.src.rpm
+    repoid: rawhide-source
+    size: 689449
+    checksum: sha256:0492ed3eef6760123a492fcbd7f850d46f01e394c725f9f5d98198d6a8eb940b
+    name: authselect
+    evr: 1.6.1-1.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/b/bash-5.3.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 11466781
+    checksum: sha256:125e5a73e476713a3e08b8f8e6080a51b789945be408d9db118cdc7cc64a79d4
+    name: bash
+    evr: 5.3.0-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/b/binutils-2.45-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 54958884
+    checksum: sha256:784cc73e527b953484289e6ab4480319204eb6c5690250f2198c74813f591f42
+    name: binutils
+    evr: 2.45-3.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/b/brotli-1.1.0-9.fc44.src.rpm
+    repoid: rawhide-source
+    size: 531380
+    checksum: sha256:3e3f32743d28d6d14dc86cf12fd9507ada1e91cb4336609defb18553db211ffd
+    name: brotli
+    evr: 1.1.0-9.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/b/bzip2-1.0.8-21.fc43.src.rpm
+    repoid: rawhide-source
+    size: 847670
+    checksum: sha256:484fc8b470d0a0adfb5a9ed5b28a1f49ac8bf2fa0974ba85885040efde247575
+    name: bzip2
+    evr: 1.0.8-21.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/ca-certificates-2025.2.80_v9.0.304-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 778430
+    checksum: sha256:1b769427ba814771f2bfca55af79a60a70ca847b319e33a90afd1ee03602d723
+    name: ca-certificates
+    evr: 2025.2.80_v9.0.304-2.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/chkconfig-1.33-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 248708
+    checksum: sha256:27f72240ba77a301929bc1615dd6f41f1a8a6ee1c51c8f1983337dfd565d1401
+    name: chkconfig
+    evr: 1.33-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/coreutils-9.7-5.fc43.src.rpm
+    repoid: rawhide-source
+    size: 6372625
+    checksum: sha256:8744f4238a63580ad52a1b3c09932f7a225161486fcf1555625f331ffb6db7b0
+    name: coreutils
+    evr: 9.7-5.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/cpio-2.15-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1703312
+    checksum: sha256:478f429312d2e522a1b7fa343d09b9fa436685bc478d290f0f89a4dc85b59001
+    name: cpio
+    evr: 2.15-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/cracklib-2.9.11-8.fc43.src.rpm
+    repoid: rawhide-source
+    size: 6434297
+    checksum: sha256:339f90209627f9ef977725f4c8bef6dd6a5f26842b4129579f6d846c021153f6
+    name: cracklib
+    evr: 2.9.11-8.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/crypto-policies-20250714-4.gitcd6043a.fc44.src.rpm
+    repoid: rawhide-source
+    size: 178759
+    checksum: sha256:14d3f26acb489aa556a88ecbd03bac709964889af89d5f7f762a6898fd495bd9
+    name: crypto-policies
+    evr: 20250714-4.gitcd6043a.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/cryptsetup-2.8.1-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 11870253
+    checksum: sha256:d57ca048940faf90c2def331eb0d2d00ddd7509fb660d0811bf5e19941352a25
+    name: cryptsetup
+    evr: 2.8.1-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/curl-8.16.0~rc2-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2884431
+    checksum: sha256:cc4271f19a61ad487d4548fca2f775e6285c2ee889483b3fce26f54a72726de0
+    name: curl
+    evr: 8.16.0~rc2-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/c/cyrus-sasl-2.1.28-33.fc44.src.rpm
+    repoid: rawhide-source
+    size: 4003009
+    checksum: sha256:e2a49b70994b957aab8cd67d3534260ee1f225c4df8226725867e23ba7f3eea2
+    name: cyrus-sasl
+    evr: 2.1.28-33.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/d/dbus-1.16.0-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1213138
+    checksum: sha256:e7b7fdf5a6592e5279b35392cfa05ae7c8e47d5c4090d48114880929261c5c50
+    name: dbus
+    evr: 1:1.16.0-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/d/dbus-broker-37-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 298949
+    checksum: sha256:560ed4fead18a6778d9ae02db0a5c7e14d00936d5b5bc24c7035377895dda795
+    name: dbus-broker
+    evr: 37-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/d/debugedit-5.2-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 227420
+    checksum: sha256:dd6c3db17d7d1f7adb21f85bb3272d085323e98864a7ea2053a874fa8aa00d63
+    name: debugedit
+    evr: 5.2-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/d/diffutils-3.12-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1977610
+    checksum: sha256:b740563cf0b165213a54835007b4fe0a633fc79f9724a03453c203d246045fb2
+    name: diffutils
+    evr: 3.12-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/d/dwz-0.16-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 172414
+    checksum: sha256:dd92502b59d4fb8d861f38e7159e4a2daac07d11aed6dffd75150e8ac00c9765
+    name: dwz
+    evr: 0.16-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/e2fsprogs-1.47.3-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 7738172
+    checksum: sha256:3b130b9f81a08772b53f81c1f92364086059732e008d2b5d4489418fa36fa3b9
+    name: e2fsprogs
+    evr: 1.47.3-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/ed-1.22.2-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 104009
+    checksum: sha256:3dde338e5f03776d4aac3ff4ac08ee4449ec8ec441b6c0b60bce8a6433b8dcf7
+    name: ed
+    evr: 1.22.2-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/efi-rpm-macros-6-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 33388
+    checksum: sha256:6c93fe7eb210365c22e4867f910ecb5103e902ec15e45f76cdacefc2597d1984
+    name: efi-rpm-macros
+    evr: 6-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/elfutils-0.193-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 12083607
+    checksum: sha256:59306856b2bab47f0267476e445e0b01f01f7c6bbd707a90b2a7fd9274a0225f
+    name: elfutils
+    evr: 0.193-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/e/expat-2.7.1-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 834692
+    checksum: sha256:4cf21703fa443f1d2ea0c7414a1f44b1697fc29b1c92191d04c87d347479db76
+    name: expat
+    evr: 2.7.1-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fedora-release-44-0.2.src.rpm
+    repoid: rawhide-source
+    size: 165588
+    checksum: sha256:9434de02c7bb67bbdba29d02585cbbf178fe5a58050b4ecf467890255681282c
+    name: fedora-release
+    evr: 44-0.2
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fedora-repos-44-0.1.src.rpm
+    repoid: rawhide-source
+    size: 148052
+    checksum: sha256:53d9f0e2860e19a7bcbc3e3f806867be5a027ad10e48b68e5b18f002bd27ecf9
+    name: fedora-repos
+    evr: 44-0.1
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/file-5.46-7.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1402442
+    checksum: sha256:16db4c05727e467de842636007d41534e6e104f318ade402e6fbd58a2e2938a0
+    name: file
+    evr: 5.46-7.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/filesystem-3.18-50.fc43.src.rpm
+    repoid: rawhide-source
+    size: 339736
+    checksum: sha256:12595de9e025521021218b191d3bb48d198e0f74f9d681c2be8dce5d16afff38
+    name: filesystem
+    evr: 3.18-50.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/findutils-4.10.0-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2330115
+    checksum: sha256:71391b2f82aa1947fe3448eeadbe4c82eb2e518cc699d60ace1eaa22a64c0248
+    name: findutils
+    evr: 1:4.10.0-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fonts-rpm-macros-2.0.5-23.fc43.src.rpm
+    repoid: rawhide-source
+    size: 64967
+    checksum: sha256:a50c885f1eb8eaf597eb10edce4d6a02005ed4c5ff82b31318e5fdb1bd507c1f
+    name: fonts-rpm-macros
+    evr: 1:2.0.5-23.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/forge-srpm-macros-0.4.0-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 35107
+    checksum: sha256:1abe18a283e9218e972c0506c61c85fb06db3595d4970519b050b799ec60c5a5
+    name: forge-srpm-macros
+    evr: 0.4.0-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fpc-srpm-macros-1.3-15.fc43.src.rpm
+    repoid: rawhide-source
+    size: 12944
+    checksum: sha256:cc21a5528fb98f4098bc3e394b91b98ad2838d079cfb31ef039f642294ffb7ff
+    name: fpc-srpm-macros
+    evr: 1.3-15.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/f/fsverity-utils-1.6-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 64550
+    checksum: sha256:1a7155c00cd1126b2551406c2c5853cdd20be8f5871ed8b07b2d3711e39252d0
+    name: fsverity-utils
+    evr: 1.6-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gap-srpm-macros-1-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 9396
+    checksum: sha256:b87f264805fd47f8c9d78e8a939cae1b07eea39313266bf329efb92b7f4d95e9
+    name: gap-srpm-macros
+    evr: 1-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gawk-5.3.2-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 3818175
+    checksum: sha256:9855f7be72af9b2e9bfda1e937acf552c91098b1e23595e3889e625dca632e3a
+    name: gawk
+    evr: 5.3.2-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gcc-15.2.1-1.fc44.1.src.rpm
+    repoid: rawhide-source
+    size: 96921147
+    checksum: sha256:50b90d9e62bae22fbdab46d4b19c51e68afcb23aba99f0c2f21218b0222e2d87
+    name: gcc
+    evr: 15.2.1-1.fc44.1
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gdb-16.3-5.fc44.src.rpm
+    repoid: rawhide-source
+    size: 24841008
+    checksum: sha256:412f012210409867f23cc26600ea750609bdbb608250b270a2b9da419f95e9bd
+    name: gdb
+    evr: 16.3-5.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gdbm-1.23-10.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1151702
+    checksum: sha256:8ce67ae4e56038bc096296267f91dfaa9ad42f2f3227178fe620310d08bb9ca0
+    name: gdbm
+    evr: 1:1.23-10.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/ghc-srpm-macros-1.9.2-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 15571
+    checksum: sha256:ed514b665b623d047297ae3e614f500d6193fd35d33e492479ec68cd8c92337e
+    name: ghc-srpm-macros
+    evr: 1.9.2-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/glib2-2.85.4-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 5750305
+    checksum: sha256:2533f39e388e1a0e5c1e546ed6f9bf9aa76747becee0f20aea751fecf8392384
+    name: glib2
+    evr: 2.85.4-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/glibc-2.42.9000-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 21340585
+    checksum: sha256:4cb5ebbe41eeb677b0ae8646add9b2224d6baaa8e89a4f98406d359b897cb6c1
+    name: glibc
+    evr: 2.42.9000-3.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gmp-6.3.0-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2165253
+    checksum: sha256:7147fdc156fed6b086664913e3fd9e787b3eaf29409d9fa9832930ebff0cd2da
+    name: gmp
+    evr: 1:6.3.0-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gnat-srpm-macros-6-8.fc43.src.rpm
+    repoid: rawhide-source
+    size: 14992
+    checksum: sha256:2207e694fc30272bcec3718115c8a8750ff8618c16e56462dd75da7636ec9264
+    name: gnat-srpm-macros
+    evr: 6-8.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gnupg2-2.4.8-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 8112326
+    checksum: sha256:de6c81835f847ebba48d121b94731ad2d5234268999f1c2e0e553ac4eb6de1de
+    name: gnupg2
+    evr: 2.4.8-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gnutls-3.8.10-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 52924237
+    checksum: sha256:7a6b69b4fd2e1f78ec6f6e92db7d8881abaf9c3f28b9c80f41a8b6e145fac707
+    name: gnutls
+    evr: 3.8.10-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/go-rpm-macros-3.7.0-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 72538
+    checksum: sha256:a5f5ebcf1ca38e731fc3b3a955ca7afe7f2a8d9ce9c7f2a2b131f7e5cf86c2cd
+    name: go-rpm-macros
+    evr: 3.7.0-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gpgverify-2.2-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 14012
+    checksum: sha256:cd867f36b8345f9627a122b3513761893f77c437c9289047aef51950c3dd6506
+    name: gpgverify
+    evr: 2.2-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/grep-3.12-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2159821
+    checksum: sha256:a6a83547569e4559d0836a2d5899cf4c0f92e83221f3dd346524bb9ddf12604e
+    name: grep
+    evr: 3.12-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/g/gzip-1.14-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 937700
+    checksum: sha256:a1f834aedce02c0aca0ba6e67c7c7107a810738f6c8c9d250c00bc4160d2a1f2
+    name: gzip
+    evr: 1.14-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/i/ima-evm-utils-1.6.2-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 194788
+    checksum: sha256:9fdc917c2ca85e6dd3e516aa8463201952e95c1c9a26510c4ac317619b674094
+    name: ima-evm-utils
+    evr: 1.6.2-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/j/jansson-2.14-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 165973
+    checksum: sha256:f77ee7c34c13197bdd2915e4a2e9c911e432b32990503ec6291bd62d80cd2474
+    name: jansson
+    evr: 2.14-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/j/java-rpm-macros-1-7.fc43.src.rpm
+    repoid: rawhide-source
+    size: 9488
+    checksum: sha256:2c185d03bc5a13f6c0ea064c7e224c62bd1e6544d7b7ae5f395c334d7de68a7d
+    name: java-rpm-macros
+    evr: 1-7.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/j/json-c-0.18-7.fc43.src.rpm
+    repoid: rawhide-source
+    size: 431676
+    checksum: sha256:e4f85913157df74b19b414013e0a3a2fe987a846c54fd84c949b8907cf691784
+    name: json-c
+    evr: 0.18-7.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/kbd-2.8.0-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1562329
+    checksum: sha256:e88e075b8003a7603bd1986f56cb5268aad7c13d879e7525da34d833bcf61824
+    name: kbd
+    evr: 2.8.0-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/kernel-srpm-macros-1.0-27.fc43.src.rpm
+    repoid: rawhide-source
+    size: 34556
+    checksum: sha256:5ad394dbb514df15a8e837bbfd3826ed4359c41bf5e6e9656f0880403eefd620
+    name: kernel-srpm-macros
+    evr: 1.0-27.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/keyutils-1.6.3-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 163486
+    checksum: sha256:783c52298058e034ea830e93375dcbbc38b00ea4366f89212e5fd77b8c171339
+    name: keyutils
+    evr: 1.6.3-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/kmod-34.2-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 488198
+    checksum: sha256:92cec74a973abb00da77a38baa17f7341b2cb06cf070aacedc06381a0b6d3d04
+    name: kmod
+    evr: 34.2-3.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/k/krb5-1.21.3-7.fc43.src.rpm
+    repoid: rawhide-source
+    size: 9661766
+    checksum: sha256:fcab4268a8f8fc3ad95bd02aafa4e43852d742276fdca341af463fd5e6525332
+    name: krb5
+    evr: 1.21.3-7.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libarchive-3.8.1-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 8263711
+    checksum: sha256:07a52d71fcc83c667cb2efd6ab59f1e1923b0fcd498e3decf5a829ab4af485fd
+    name: libarchive
+    evr: 3.8.1-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libassuan-2.5.7-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 635419
+    checksum: sha256:76326700e8682536258f731d4d0588d88eafc97590a0ff1447907daf7065fffa
+    name: libassuan
+    evr: 2.5.7-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libbpf-1.6.1-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1066242
+    checksum: sha256:5f51e2b14f5eaea0c45e05971a385f10c371fccee00540cee85a4d15b965af10
+    name: libbpf
+    evr: 2:1.6.1-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libcap-2.76-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 306230
+    checksum: sha256:345edeb720bf03eda3f2352e30ea02457164eaed2d7e55b8bb60f337cf4bbe8a
+    name: libcap
+    evr: 2.76-3.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libcap-ng-0.8.5-7.fc44.src.rpm
+    repoid: rawhide-source
+    size: 492199
+    checksum: sha256:193686603440b32614251f9cd283ef5cf4136b3cbc7e526884a2c3d2f7537cd5
+    name: libcap-ng
+    evr: 0.8.5-7.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libcbor-0.12.0-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 311624
+    checksum: sha256:a9d457d19f5e4ec10f287d197bb3511e3d4de18a3d8227beb1b8477600e32db5
+    name: libcbor
+    evr: 0.12.0-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libeconf-0.7.9-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 274685
+    checksum: sha256:acb15afff25fe1887120fc3d38c659e4773e53b80b51d7e5546dcce23379a94e
+    name: libeconf
+    evr: 0.7.9-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libevent-2.1.12-16.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1136870
+    checksum: sha256:f7dda6383c52a87ebd2cdb39dece92e70e6a6aa4d52dfae45e0a206bfaa8d3d0
+    name: libevent
+    evr: 2.1.12-16.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libffi-3.5.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1453566
+    checksum: sha256:f6755db005d2089baa191d4acac470ee98ddd3ebcb8ff68f091bcdc9726cb74d
+    name: libffi
+    evr: 3.5.1-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libfido2-1.16.0-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 924563
+    checksum: sha256:478465dd0e91376dfb980abbb9977699b116bacd889ebba739d0e88a2ded2e79
+    name: libfido2
+    evr: 1.16.0-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libgcrypt-1.11.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 4320184
+    checksum: sha256:7175d41d58d5440a55dbdb434685b3cb204667406f49e89b222d0e6303f7500e
+    name: libgcrypt
+    evr: 1.11.1-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libgpg-error-1.55-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1149851
+    checksum: sha256:e543163ab5afd73a165769db7e69de89559950c9b7e7456cae5ad6f8c77b8f2f
+    name: libgpg-error
+    evr: 1.55-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libidn2-2.3.8-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2250373
+    checksum: sha256:7a541a5fb90c0633461feb1dced2fe5b47eafd166664d6c7d452a24199ffdb5d
+    name: libidn2
+    evr: 2.3.8-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libksba-1.6.7-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 740909
+    checksum: sha256:cec8ec733b75a95c422721f58e220b67e2cd3a8da815bd7a802164aa7e57fa84
+    name: libksba
+    evr: 1.6.7-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libnsl2-2.0.1-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 67676
+    checksum: sha256:b6fb1f12f8917c38c8f2c968e41aaceeab279e6381eb6f6cf5230725c75b35f2
+    name: libnsl2
+    evr: 2.0.1-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libpsl-0.21.5-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 7600907
+    checksum: sha256:d67d859fe4aab0739f7981741cf17c03e2b5c844d9c223a0d4a8fd7dc30adb59
+    name: libpsl
+    evr: 0.21.5-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libpwquality-1.4.5-14.fc43.src.rpm
+    repoid: rawhide-source
+    size: 462170
+    checksum: sha256:8b88562b7b304d9d029aa28b16b8af3aa7b155034dd4c4dcbb73103475dcbfce
+    name: libpwquality
+    evr: 1.4.5-14.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libseccomp-2.6.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 712295
+    checksum: sha256:3c4be73aba1b361b77c97ba37b1b31afae0e03edfd11f11be27286235df9a575
+    name: libseccomp
+    evr: 2.6.0-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libsecret-0.21.7-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 232159
+    checksum: sha256:ad9381c05d124033d5d428911c389485f91077b31372d33c2bd16d4280446948
+    name: libsecret
+    evr: 0.21.7-3.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libselinux-3.9-4.fc44.src.rpm
+    repoid: rawhide-source
+    size: 398169
+    checksum: sha256:7ddab1cd261d1d4cd915b2a023157dece7e13437baf2cbf637833dab30777fad
+    name: libselinux
+    evr: 3.9-4.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libsemanage-3.9-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 308485
+    checksum: sha256:e2b6a47fb6de74fd497f742a2d979949199c27cebd814891c5e603bcde41987e
+    name: libsemanage
+    evr: 3.9-3.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libsepol-3.9-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 623219
+    checksum: sha256:7ecae8f77153660e6adc2f6c0e5ea24d2bf15390e109163adacf6c20a8b7c1b9
+    name: libsepol
+    evr: 3.9-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libssh-0.11.2-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 660718
+    checksum: sha256:ee1a3f79f557450ad0114e8ca7d652dcfb52f566cfe3a86568bba841c134684e
+    name: libssh
+    evr: 0.11.2-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libtasn1-4.20.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1818686
+    checksum: sha256:29e4cf061886445c5e892c875a5a5de653c2d5136f95589a8be511eb221de9ce
+    name: libtasn1
+    evr: 4.20.0-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libtirpc-1.3.7-0.fc44.src.rpm
+    repoid: rawhide-source
+    size: 614390
+    checksum: sha256:37c40970042b44f42763b31d4791bbc35257fe04e3695725363a9735d03a819c
+    name: libtirpc
+    evr: 1.3.7-0.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libtool-2.5.4-7.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1123493
+    checksum: sha256:31467867d4d0b7848af21fe236408219dcec4c1702363620a2d9bb3083749c0b
+    name: libtool
+    evr: 2.5.4-7.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libunistring-1.1-10.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2422655
+    checksum: sha256:08a3c254683ef43511a66e0737585e15a1be593948428af720a9728f09a39c60
+    name: libunistring
+    evr: 1.1-10.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libusb1-1.0.29-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 683593
+    checksum: sha256:7efbeab5300932b38b6198b76e1dde09bdfabc32c241f89ea1ff61b2b23e3ec4
+    name: libusb1
+    evr: 1.0.29-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libverto-0.3.2-11.fc43.src.rpm
+    repoid: rawhide-source
+    size: 410489
+    checksum: sha256:f6517880e706eebde28b2b64ece332d772108a6cdfec74b6563b8243f0feddc6
+    name: libverto
+    evr: 0.3.2-11.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libxcrypt-4.4.38-8.fc43.src.rpm
+    repoid: rawhide-source
+    size: 770335
+    checksum: sha256:3f18a17b7512fc7489015923930667734e352b11f794eda405296cfafe43c9df
+    name: libxcrypt
+    evr: 4.4.38-8.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libxkbcommon-1.11.0-1.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1159846
+    checksum: sha256:3f8dde7f39d1b7955aef9382347ea010d92dcb7ba4230c5e7454f0847439115c
+    name: libxkbcommon
+    evr: 1.11.0-1.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/libxml2-2.12.10-4.fc44.src.rpm
+    repoid: rawhide-source
+    size: 11721483
+    checksum: sha256:0c40bd69b134f2d98d7985589078c3b6c6d9eb7a3c305f4a9f4b5fa7df9510dd
+    name: libxml2
+    evr: 2.12.10-4.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/lua-5.4.8-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 556430
+    checksum: sha256:f4ccf87c8f9cbec6356fc8939a1d343f145c57b59003318709b59d7cfca49ef1
+    name: lua
+    evr: 5.4.8-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/lua-rpm-macros-1-16.fc43.src.rpm
+    repoid: rawhide-source
+    size: 13776
+    checksum: sha256:ed232c522b52817f58842646dd83171e09e96ad3323fe2f282ce7377857163ed
+    name: lua-rpm-macros
+    evr: 1-16.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/lvm2-2.03.34-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 2980481
+    checksum: sha256:7a3099137c4d6a13ffd80ffdf87453379f8127e9bc107651a0d634a9e7406540
+    name: lvm2
+    evr: 2.03.34-2.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/l/lz4-1.10.0-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 408531
+    checksum: sha256:2a1a8dc30a3452880331224c3642ac0e29b82ec91af92c077161bcdc43cb96ee
+    name: lz4
+    evr: 1.10.0-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/m/mpdecimal-4.0.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1088939
+    checksum: sha256:319ea8f7950830df001fddbc8ededeb6b804cbc3119c2f470f893b504df50efc
+    name: mpdecimal
+    evr: 4.0.1-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/m/mpfr-4.2.2-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1537171
+    checksum: sha256:eb31dbe70f9802c16f195fc0107cb7595e87de97d89ee14a47848b423e4e23dd
+    name: mpfr
+    evr: 4.2.2-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/n/ncurses-6.5-7.20250614.fc43.src.rpm
+    repoid: rawhide-source
+    size: 3855709
+    checksum: sha256:c076395bb22e4492f2cd348689ff617f68bb7cfea4e8c89012dc3938094d4b17
+    name: ncurses
+    evr: 6.5-7.20250614.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/n/nettle-3.10.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2710603
+    checksum: sha256:fee25354389f8e0f6ae05aaf80d748046c7625fc208d6a47e620f6b64c697176
+    name: nettle
+    evr: 3.10.1-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/n/nghttp2-1.66.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1786937
+    checksum: sha256:37127f2eb717fa646203a1eec43341096b4ecd7c30ca82038dd7d0084808caac
+    name: nghttp2
+    evr: 1.66.0-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/n/npth-1.8-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 344758
+    checksum: sha256:aa6d03a4791eae1811f60489d5e193efceb88e0b92ecb4302b35b38104dbc43c
+    name: npth
+    evr: 1.8-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/o/ocaml-srpm-macros-11-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 15413
+    checksum: sha256:4eaa156df4ecd78bf9dda9f6e5c7cd344c0dce4bf5ae77a85b9339b96c864337
+    name: ocaml-srpm-macros
+    evr: 11-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/o/openblas-srpm-macros-2-20.fc43.src.rpm
+    repoid: rawhide-source
+    size: 11546
+    checksum: sha256:b6ccc003992ea7e8c4ad80c65092a7fc35f47fc3ab37643c4e3538f7284d0295
+    name: openblas-srpm-macros
+    evr: 2-20.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/o/openldap-2.6.10-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 6645564
+    checksum: sha256:d39ed3466412c0f4c62ce2b82a18ab8823a8faab46c32030a1db09907308d3e3
+    name: openldap
+    evr: 2.6.10-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/o/openssl-3.5.1-3.fc44.src.rpm
+    repoid: rawhide-source
+    size: 53407687
+    checksum: sha256:d379ea83cff49f7cbdf064dfdad29e2bb571730a67a4e2bafee0f6ebe4c21b59
+    name: openssl
+    evr: 1:3.5.1-3.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/p11-kit-0.25.5-9.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1060081
+    checksum: sha256:ad89bf95021f0089626a4943e01cc712caba953fce02a2c5d6af9533887a9ac1
+    name: p11-kit
+    evr: 0.25.5-9.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/package-notes-0.5-14.fc43.src.rpm
+    repoid: rawhide-source
+    size: 15486
+    checksum: sha256:e19561adeace50a453bacf2c94c48e9e69429387c9754ad014d9d0dc5b2d74c8
+    name: package-notes
+    evr: 0.5-14.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pam-1.7.1-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 664745
+    checksum: sha256:87760e267551782d6f0d471c9e868d9fb7aad7c5b7b38b6d36937e87210aac6d
+    name: pam
+    evr: 1.7.1-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/patch-2.8-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 942866
+    checksum: sha256:0e912ea643b3ddff38009611103d2265c5445e4f39f60ba919e3edb2e3bb25d9
+    name: patch
+    evr: 2.8-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pcre2-10.45-1.fc43.1.src.rpm
+    repoid: rawhide-source
+    size: 2131265
+    checksum: sha256:e53cd18e14a57ed789fb85f0cfde952fdf66aff45251fcea74f0858ee4e21457
+    name: pcre2
+    evr: 10.45-1.fc43.1
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/perl-srpm-macros-1-60.fc43.src.rpm
+    repoid: rawhide-source
+    size: 17362
+    checksum: sha256:bf6c42e217c088dffce51c35190d6c37a91e1362e75ccb3cdaf6fd4793899fa2
+    name: perl-srpm-macros
+    evr: 1-60.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pinentry-1.3.2-1.fc43.src.rpm
+    repoid: rawhide-source
+    size: 656719
+    checksum: sha256:96eadc5fb6db43fa45f784a942ce999703975896c725bffdfabb850135526e1a
+    name: pinentry
+    evr: 1.3.2-1.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pkcs11-provider-1.0-4.fc43.src.rpm
+    repoid: rawhide-source
+    size: 180066
+    checksum: sha256:aadad759b820f6c59466d5da8cf474db245e41aadb636de3306074bef81ae785
+    name: pkcs11-provider
+    evr: 1.0-4.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pkgconf-2.3.0-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 350324
+    checksum: sha256:084bfb962ab1cdc685a65a8be870536d2807d3585f450bd1dacc778f62dc192c
+    name: pkgconf
+    evr: 2.3.0-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/popt-1.19-9.fc43.src.rpm
+    repoid: rawhide-source
+    size: 624778
+    checksum: sha256:3c50cba7c5786ff14d0fe6ab4e8ed33c05a9cba54f289acf914ec92c4fd8b764
+    name: popt
+    evr: 1.19-9.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/publicsuffix-list-20250616-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 113793
+    checksum: sha256:23c09b88bc2e850d3342fa493779277b5b7726fcbddf8b5846cbc394ffc0e783
+    name: publicsuffix-list
+    evr: 20250616-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/pyproject-rpm-macros-1.18.3-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 313460
+    checksum: sha256:85f8b6927dd2285938aacdc581ea0cacc22b71eadc21011516fa4cfd2d071d21
+    name: pyproject-rpm-macros
+    evr: 1.18.3-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/python-pip-25.1.1-16.fc44.src.rpm
+    repoid: rawhide-source
+    size: 10546175
+    checksum: sha256:d5c54b3061d0d98ed016cbfcd9f25bb20009e93aaa1aa522a81ff5733a501d62
+    name: python-pip
+    evr: 25.1.1-16.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/python-rpm-macros-3.14-6.fc44.src.rpm
+    repoid: rawhide-source
+    size: 65243
+    checksum: sha256:5025e4888b6866688765dd9f928f26d1bace87963312738d4fe3ca4572ceebac
+    name: python-rpm-macros
+    evr: 3.14-6.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/p/python3.14-3.14.0~rc2-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 23683610
+    checksum: sha256:a5e145285718845e97f408f219f5456eda07ab534096f0287227a6529f803540
+    name: python3.14
+    evr: 3.14.0~rc2-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/q/qrencode-4.1.1-11.fc43.src.rpm
+    repoid: rawhide-source
+    size: 486187
+    checksum: sha256:cb57496064fb267d97a259a07b08d7ee3b1e2db134a7bf7b1cf166276c7dca7c
+    name: qrencode
+    evr: 4.1.1-11.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/q/qt5-5.15.17-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 27080
+    checksum: sha256:371c811af5cf6325c13309dc03c1c13bdf48885ac65ba059353359ab66eafb32
+    name: qt5
+    evr: 5.15.17-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/q/qt6-6.9.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 24977
+    checksum: sha256:5d0f7d0ad24378984c388731cd6a54dec3baabfa857359469733ca2f300effaf
+    name: qt6
+    evr: 6.9.1-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/r/readline-8.3-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 3479764
+    checksum: sha256:233bb786e7706c923f0629926c9e08d69089d67c0af23b46a062fbbbe878a148
+    name: readline
+    evr: 8.3-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/r/redhat-rpm-config-343-13.fc44.src.rpm
+    repoid: rawhide-source
+    size: 173363
+    checksum: sha256:3d22fcf972304821d63d2d9562ed1cc90d0a58b2003ebe94d0e58b7e2156fd13
+    name: redhat-rpm-config
+    evr: 343-13.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/r/rpm-5.99.92-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1421388
+    checksum: sha256:ae5a0251ee45f16932f78040d941671052a295cb0ce8e07d3f7f59e35bde8bb2
+    name: rpm
+    evr: 5.99.92-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/r/rust-add-determinism-0.6.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 4704180
+    checksum: sha256:78d1c2d4459a048953e25674dbe482db440b6742b0f41d31eb7746a187f39e16
+    name: rust-add-determinism
+    evr: 0.6.0-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/r/rust-packaging-26.4-1.fc44.src.rpm
+    repoid: rawhide-source
+    size: 40282
+    checksum: sha256:d226a59b9579816492e41ff4a5e00942362739ea38d0194e30c11f9dec461342
+    name: rust-packaging
+    evr: 26.4-1.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/r/rust-rpm-sequoia-1.9.0-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 120858
+    checksum: sha256:bbf4d44a0a642085a3d68e1a50687642f51770a610c7fe087d43b7cb4bbfb1ad
+    name: rust-rpm-sequoia
+    evr: 1.9.0-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/sed-4.9-5.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1492718
+    checksum: sha256:bca7d324a4b302486a116f0ba2226ae8339a01c1d75a507bdd6bc8acc8c1bce8
+    name: sed
+    evr: 4.9-5.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/setup-2.15.0-26.fc43.src.rpm
+    repoid: rawhide-source
+    size: 247958
+    checksum: sha256:0619e5b9c93cf7f55e5a134675e45ded54806c986d01c1502fa265508d58faaa
+    name: setup
+    evr: 2.15.0-26.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/shadow-utils-4.18.0-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2459311
+    checksum: sha256:0fbc3659c5323d422faaf9d1d7c85abb484a4d526d6fc4e13cffdb5ddd9be40b
+    name: shadow-utils
+    evr: 2:4.18.0-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/sqlite-3.50.2-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 28408033
+    checksum: sha256:1a6ddd91effbca2bffa03fac2be6a201300ff7b0172fb0e77280e7e76cba5922
+    name: sqlite
+    evr: 3.50.2-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/s/systemd-258~rc3-2.fc44.src.rpm
+    repoid: rawhide-source
+    size: 17015479
+    checksum: sha256:715a735df077c2969023d430972083c4bafdc065c1e127c9fc405e322537f62f
+    name: systemd
+    evr: 258~rc3-2.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/tar-1.35-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2386451
+    checksum: sha256:8af01bf8d8b9b229c124ce4508320ca45bad40a1b4f4a87e641d7fe0e8c97455
+    name: tar
+    evr: 2:1.35-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/texinfo-7.2-6.fc43.src.rpm
+    repoid: rawhide-source
+    size: 6469598
+    checksum: sha256:a74e00d24c0721ee1944f9e6995232580e18d7d32fce99538c7fe68f7e7c62b4
+    name: texinfo
+    evr: 7.2-6.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/tpm2-tss-4.1.3-8.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1933392
+    checksum: sha256:88a2b90cd5e5efe6e5e6484321aabeae9210c3a0ea72a49c747d93c3087b809a
+    name: tpm2-tss
+    evr: 4.1.3-8.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/tree-sitter-srpm-macros-0.4.2-1.fc43.src.rpm
+    repoid: rawhide-source
+    size: 16907
+    checksum: sha256:347a9715f2f8bc31319bfebdba9ba23d2b53732ad2a3f6c2845cdc03d5a14e5e
+    name: tree-sitter-srpm-macros
+    evr: 0.4.2-1.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/t/tzdata-2025b-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 899472
+    checksum: sha256:db3f6927a9f3b249a9369f32fd16f465f949f1753c0f1e1db69001c0db8d4875
+    name: tzdata
+    evr: 2025b-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/u/unzip-6.0-68.fc44.src.rpm
+    repoid: rawhide-source
+    size: 1466290
+    checksum: sha256:8e7b2e27e4b6cfd93c5bde93c04c5ab612d9a7938359c5b5f428ba0f6da8abe6
+    name: unzip
+    evr: 6.0-68.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/u/util-linux-2.41.1-16.fc44.src.rpm
+    repoid: rawhide-source
+    size: 9666864
+    checksum: sha256:b23ea3b9a86907eb355342b772a9197d6767c5c6037b20f9d1a333c34cd32f42
+    name: util-linux
+    evr: 2.41.1-16.fc44
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/w/which-2.23-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 234016
+    checksum: sha256:2db1abe90192139d25d0a5f325c348b696ef462dcfe29a505e8f3139f826c71b
+    name: which
+    evr: 2.23-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/w/whois-5.6.4-1.fc43.src.rpm
+    repoid: rawhide-source
+    size: 124318
+    checksum: sha256:afae65867ba5b50c0ee2b949d109c049d5a30baab35af3519df894715895eb08
+    name: whois
+    evr: 5.6.4-1.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/x/xkeyboard-config-2.45-1.fc43.src.rpm
+    repoid: rawhide-source
+    size: 947111
+    checksum: sha256:412b58a3ce000554d027b2e04f81b19bff69cef784ac07e115b8797faab5b687
+    name: xkeyboard-config
+    evr: 2.45-1.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/x/xxhash-0.8.3-3.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1087099
+    checksum: sha256:72aaa19a8270dc320d7840c255d703d31a3afe604faa631fd5866061ad464f7f
+    name: xxhash
+    evr: 0.8.3-3.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/x/xz-5.8.1-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2631822
+    checksum: sha256:755a276d473b50c0e8d2b6b69f6e9deaa04f30993cb3087b9d5a00ede92272be
+    name: xz
+    evr: 1:5.8.1-2.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/z/zig-srpm-macros-1-5.fc43.src.rpm
+    repoid: rawhide-source
+    size: 9824
+    checksum: sha256:51fc4527ae325bc169be2f52b1e09dd2e5d9f3961b6570f83b3af82c91434bfc
+    name: zig-srpm-macros
+    evr: 1-5.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/z/zip-3.0-44.fc43.src.rpm
+    repoid: rawhide-source
+    size: 1148853
+    checksum: sha256:81ad64910beff8516cc6493fbf689cfc32c72f1c978c7d58aff06b2428e5e6aa
+    name: zip
+    evr: 3.0-44.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/z/zlib-ng-2.2.5-1.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2422994
+    checksum: sha256:3d68f76dcb5dd52a04ea6f3b72f6f773f74d1ca4755780bf7d943f48647ba60a
+    name: zlib-ng
+    evr: 2.2.5-1.fc43
+  - url: http://mirror.fcix.net/fedora/linux/development/rawhide/Everything/source/tree/Packages/z/zstd-1.5.7-2.fc43.src.rpm
+    repoid: rawhide-source
+    size: 2469691
+    checksum: sha256:69e21cc12bf3bd275e73004bfb0906b5cb51bd5343580276ba26e5f9d4f4f486
+    name: zstd
+    evr: 1.5.7-2.fc43
+  module_metadata: []

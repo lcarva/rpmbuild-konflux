@@ -1,0 +1,28 @@
+---
+packages:
+  # - @buildsys-build
+  - bash
+  - bzip2
+  - coreutils
+  - cpio
+  - diffutils
+  - fedora-release-common
+  - findutils
+  - gawk
+  - glibc-minimal-langpack
+  - grep
+  - gzip
+  - info
+  - patch
+  - redhat-rpm-config
+  - rpm-build
+  - sed
+  - shadow-utils
+  - tar
+  - unzip
+  - util-linux
+  - which
+  - xz
+contentOrigin:
+  repofiles: [./fedora-rawhide.repo]
+arches: [x86_64]

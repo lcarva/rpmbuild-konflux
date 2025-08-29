@@ -4,3 +4,9 @@ hello-2.5.tar.gz
 /hello-2.10.tar.gz
 /hello-2.12.1.tar.gz
 /hello-2.12.1.tar.gz.sig
+
+/hack/repo-buildsys-build-local
+/hack/build-results
+/hack/buildroot-results
+/hack/calculate-deps
+/hack/repo-local
