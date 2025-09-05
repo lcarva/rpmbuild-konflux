@@ -180,7 +180,7 @@ that mock runs in hermetic mode and does not require a mock config.
 rm -rf build-results && \
 mkdir --mode=777 build-results && \
 podman run -u mockbuilder \
-    -v `pwd`/calculate-deps/x86_64/results:/buildroot:Z \
+    -v `pwd`/buildroot-results:/buildroot:Z \
     -v `pwd`/build-results:/results:Z \
     -v `realpath ..`:/source:Z \
     --privileged --rm -it \
