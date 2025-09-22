@@ -1,5 +1,11 @@
 # Notes on using mock locally
 
+Before starting you must fetch the sources for the package:
+
+```bash
+dist-git-client --forked-from https://src.fedoraproject.org/rpms/hello sources
+```
+
 ## Buildsys Build
 
 When creating a chroot, it is possible to instruct mock to install certain packages. This is done
